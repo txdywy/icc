@@ -1,0 +1,66 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'CardRadar 汇总公开信用卡奖励、权益和优惠，提供可追踪来源与透明评分。' } = Astro.props;
+const nav = [
+  { href: '/', label: '首页' },
+  { href: '/cn', label: '中国大陆' },
+  { href: '/us', label: '美国' },
+  { href: '/hk', label: '香港' },
+  { href: '/cards', label: '信用卡' },
+  { href: '/offers', label: '优惠' },
+  { href: '/sources', label: '来源' },
+  { href: '/methodology', label: '方法' },
+];
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} · CardRadar</title>
+  </head>
+  <body>
+    <header class="sticky top-0 z-30 border-b border-slate-200/80 bg-slate-50/85 backdrop-blur-xl">
+      <div class="shell flex min-h-16 items-center justify-between gap-4 py-3">
+        <a href="/" class="link-focus flex items-center gap-3 rounded-2xl">
+          <span class="grid h-10 w-10 place-items-center rounded-2xl bg-blue-600 text-sm font-black text-slate-50 shadow-lg shadow-blue-600/20">CR</span>
+          <span>
+            <span class="block text-base font-semibold tracking-tight text-slate-950">CardRadar</span>
+            <span class="block text-xs text-slate-500">公开来源信用卡情报</span>
+          </span>
+        </a>
+        <nav class="hidden items-center gap-1 lg:flex" aria-label="主导航">
+          {nav.map((item) => (
+            <a class="link-focus rounded-full px-3 py-2 text-sm font-medium text-slate-600 hover:bg-slate-100 hover:text-slate-950" href={item.href}>{item.label}</a>
+          ))}
+        </nav>
+        <a class="link-focus rounded-full bg-slate-950 px-4 py-2 text-sm font-semibold text-slate-50 hover:bg-blue-700" href="/offers">查看高分优惠</a>
+      </div>
+      <nav class="shell flex gap-2 overflow-x-auto pb-3 lg:hidden" aria-label="移动导航">
+        {nav.map((item) => (
+          <a class="link-focus shrink-0 rounded-full border border-slate-200 bg-slate-50 px-3 py-1.5 text-xs font-medium text-slate-600" href={item.href}>{item.label}</a>
+        ))}
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="mt-20 border-t border-slate-200 bg-slate-50/70">
+      <div class="shell grid gap-6 py-10 text-sm text-slate-500 md:grid-cols-[1fr_auto]">
+        <p>本站仅整理公开信息，不构成金融建议。信用卡申请、奖励和优惠是否可用，以银行及商户官方条款为准。</p>
+        <div class="flex gap-4">
+          <a class="hover:text-slate-950" href="/methodology">评分方法</a>
+          <a class="hover:text-slate-950" href="/sources">数据来源</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

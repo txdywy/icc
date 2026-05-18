@@ -1,0 +1,72 @@
+---
+import { formatMoney, formatOfferCategory, formatRegion } from '../lib/format';
+import type { CreditCard } from '../lib/schema';
+import ScoreBadge from './ScoreBadge.astro';
+
+interface Props {
+  card: CreditCard;
+}
+
+const { card } = Astro.props;
+---
+
+<article
+  class="card-item panel p-5 transition hover:-translate-y-0.5 hover:border-blue-200"
+  data-region={card.region}
+  data-issuer={card.issuer}
+  data-score={card.score ?? 0}
+  data-updated={card.lastCheckedAt}
+  data-annual-fee={card.annualFee?.amount ?? 0}
+  data-welcome-value={card.welcomeOffer?.estimatedValue ?? 0}
+  data-search={`${card.name} ${card.issuer} ${card.welcomeOffer?.headline ?? ''} ${card.rewards.map((reward) => reward.rateText).join(' ')} ${card.perks.join(' ')}`.toLowerCase()}
+>
+  <div class="flex items-start justify-between gap-4">
+    <div class="min-w-0 flex-1">
+      <div class="mb-3 flex flex-wrap gap-2">
+        <span class="chip">{formatRegion(card.region)}</span>
+        {card.network?.map((network) => <span class="chip">{network}</span>)}
+      </div>
+      <h3 class="text-lg font-bold text-slate-950">{card.name}</h3>
+      <p class="mt-2 text-sm text-slate-500">{card.issuer}</p>
+    </div>
+    <ScoreBadge score={card.score} />
+  </div>
+  <div class="mt-5 rounded-[1.6rem] border border-slate-200 bg-[linear-gradient(135deg,oklch(0.98_0.006_255),oklch(0.92_0.025_252))] p-4">
+    <div class="relative mx-auto aspect-[1.586/1] max-w-[15rem] overflow-hidden rounded-2xl border border-slate-300/80 bg-slate-200 shadow-card">
+      {card.imageUrl ? (
+        <img class="h-full w-full object-contain p-2" src={card.imageUrl} alt={card.imageAlt ?? `${card.name}卡面图`} loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+      ) : (
+        <div class="flex h-full flex-col justify-between bg-slate-800 p-4 text-slate-100">
+          <span class="text-xs font-bold uppercase tracking-[0.24em] text-slate-300">{card.region}</span>
+          <span class="text-sm font-black leading-tight">{card.issuer}</span>
+        </div>
+      )}
+    </div>
+    {card.imageSourceUrl && <p class="mt-3 text-center text-[0.68rem] font-medium text-slate-500">卡面图来自公开来源</p>}
+  </div>
+  <dl class="mt-5 grid gap-3 text-sm sm:grid-cols-2">
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">年费</dt>
+      <dd class="mt-1 font-semibold text-slate-900">{card.annualFee ? formatMoney(card.annualFee.amount, card.annualFee.currency) : '未披露'}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">开卡奖励</dt>
+      <dd class="mt-1 font-semibold text-slate-900">{formatMoney(card.welcomeOffer?.estimatedValue, card.welcomeOffer?.currency)}</dd>
+    </div>
+  </dl>
+  {card.welcomeOffer && <p class="mt-4 text-sm leading-6 text-slate-700">{card.welcomeOffer.headline}</p>}
+  <div class="mt-4 space-y-2">
+    {card.rewards.slice(0, 3).map((reward) => (
+      <div class="rounded-2xl bg-slate-100 px-3 py-2 text-sm text-slate-700">
+        <span class="font-semibold text-slate-950">{formatOfferCategory(reward.category)}</span> · {reward.rateText}
+      </div>
+    ))}
+  </div>
+  <ul class="mt-4 flex flex-wrap gap-2">
+    {card.perks.slice(0, 4).map((perk) => <li class="rounded-full bg-blue-50 px-2.5 py-1 text-xs font-medium text-blue-700">{perk}</li>)}
+  </ul>
+  <div class="mt-5 flex items-center justify-between gap-3 border-t border-slate-200 pt-4 text-xs text-slate-500">
+    <span>来源 {card.sourceUrls.length} 个</span>
+    {card.applyUrl && <a class="font-semibold text-blue-700 hover:text-blue-900" href={card.applyUrl} target="_blank" rel="noreferrer">申请/官方页</a>}
+  </div>
+</article>

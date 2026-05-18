@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDateTime, formatRegion } from '../lib/format';
+import { getCards, getMetadata, getOffers } from '../lib/data';
+import CardItem from '../components/CardItem.astro';
+import OfferCard from '../components/OfferCard.astro';
+
+const cards = getCards();
+const offers = getOffers();
+const metadata = getMetadata();
+const topOffers = [...offers].sort((a, b) => (b.score ?? 0) - (a.score ?? 0)).slice(0, 4);
+const topCards = [...cards].sort((a, b) => (b.score ?? 0) - (a.score ?? 0)).slice(0, 4);
+const expiring = [...offers]
+  .filter((offer) => offer.endDate)
+  .sort((a, b) => Date.parse(a.endDate!) - Date.parse(b.endDate!))
+  .slice(0, 3);
+const regions = [
+  { code: 'CN', href: '/cn', note: '大陆银行活动、移动支付满减、商户优惠' },
+  { code: 'US', href: '/us', note: '开卡奖励、旅行卡权益、返现积分' },
+  { code: 'HK', href: '/hk', note: '迎新礼、商户折扣、Asia Miles 与现金回赠' },
+] as const;
+---
+
+<BaseLayout title="信用卡优惠情报">
+  <section class="shell grid gap-8 py-12 lg:grid-cols-[1.1fr_0.9fr] lg:py-16">
+    <div>
+      <p class="text-sm font-bold uppercase tracking-[0.28em] text-blue-700">公开来源信用卡情报</p>
+      <h1 class="mt-4 max-w-4xl text-5xl font-black tracking-tight text-slate-950 md:text-6xl">把信用卡奖励和优惠变成可追踪情报。</h1>
+      <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-600">CardRadar 每日由 GitHub Actions 抓取公开网页，保留来源、检查时间和可靠性标记，用透明评分帮助你快速判断哪些卡和活动值得进一步核对。</p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a class="rounded-full bg-blue-700 px-5 py-3 text-sm font-bold text-slate-50 shadow-lg shadow-blue-700/20 hover:bg-blue-800" href="/offers">浏览优惠</a>
+        <a class="rounded-full border border-slate-300 bg-slate-50 px-5 py-3 text-sm font-bold text-slate-700 hover:border-slate-400" href="/methodology">了解评分</a>
+      </div>
+    </div>
+    <aside class="panel p-6">
+      <p class="text-sm font-semibold text-slate-500">最近更新</p>
+      <p class="mt-2 text-3xl font-black tabular-nums text-slate-950">{formatDateTime(metadata.lastUpdatedAt)}</p>
+      <div class="mt-6 grid grid-cols-3 gap-3">
+        <div class="rounded-2xl bg-slate-100 p-4"><p class="text-xs text-slate-500">信用卡</p><p class="mt-1 text-2xl font-black">{metadata.totalCards}</p></div>
+        <div class="rounded-2xl bg-slate-100 p-4"><p class="text-xs text-slate-500">优惠</p><p class="mt-1 text-2xl font-black">{metadata.totalOffers}</p></div>
+        <div class="rounded-2xl bg-slate-100 p-4"><p class="text-xs text-slate-500">来源</p><p class="mt-1 text-2xl font-black">{metadata.sources.length}</p></div>
+      </div>
+    </aside>
+  </section>
+
+  <section class="shell grid gap-4 md:grid-cols-3">
+    {regions.map((region) => (
+      <a class="panel block p-6 transition hover:-translate-y-0.5 hover:border-blue-200" href={region.href}>
+        <span class="chip">{region.code}</span>
+        <h2 class="mt-5 text-2xl font-black text-slate-950">{formatRegion(region.code)}</h2>
+        <p class="mt-3 text-sm leading-6 text-slate-600">{region.note}</p>
+      </a>
+    ))}
+  </section>
+
+  <section class="shell mt-14">
+    <div class="mb-5 flex items-end justify-between">
+      <div><h2 class="text-2xl font-black text-slate-950">今日高分优惠</h2><p class="mt-1 text-sm text-slate-500">优先展示评分高、来源可靠、优惠力度明确的活动。</p></div>
+      <a class="text-sm font-semibold text-blue-700" href="/offers">全部优惠</a>
+    </div>
+    <div class="grid gap-4 lg:grid-cols-2">{topOffers.map((offer) => <OfferCard offer={offer} />)}</div>
+  </section>
+
+  <section class="shell mt-14">
+    <div class="mb-5 flex items-end justify-between">
+      <div><h2 class="text-2xl font-black text-slate-950">高分信用卡</h2><p class="mt-1 text-sm text-slate-500">综合开卡奖励、日常收益、年费回本和权益质量。</p></div>
+      <a class="text-sm font-semibold text-blue-700" href="/cards">全部信用卡</a>
+    </div>
+    <div class="grid gap-4 lg:grid-cols-2">{topCards.map((card) => <CardItem card={card} />)}</div>
+  </section>
+
+  <section class="shell mt-14">
+    <div class="panel p-6">
+      <h2 class="text-2xl font-black text-slate-950">即将过期</h2>
+      <div class="mt-5 grid gap-3 md:grid-cols-3">
+        {expiring.map((offer) => (
+          <a class="rounded-2xl border border-slate-200 bg-slate-50 p-4 hover:border-blue-200" href="/offers">
+            <p class="text-sm font-bold text-slate-950">{offer.title}</p>
+            <p class="mt-2 text-xs text-slate-500">{offer.issuer} · {offer.endDate}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

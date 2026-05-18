@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCards, getOffers } from '../lib/data';
+import ListPage from '../components/ListPage.astro';
+
+const cards = getCards('US');
+const offers = getOffers('US');
+---
+
+<BaseLayout title="美国信用卡优惠">
+  <ListPage
+    title="美国信用卡开卡奖励与权益"
+    eyebrow="United States"
+    description="聚合美国公开信用卡页面中的开卡奖励、年费、消费门槛、积分/里程收益和旅行权益。"
+    cards={cards}
+    offers={offers}
+    region="US"
+  />
+</BaseLayout>

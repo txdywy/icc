@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="评分方法与免责声明">
+  <section class="shell py-10">
+    <div class="max-w-3xl">
+      <p class="text-sm font-bold uppercase tracking-[0.22em] text-blue-700">评分方法</p>
+      <h1 class="mt-3 text-4xl font-black tracking-tight text-slate-950 md:text-5xl">评分方法、数据边界和免责声明</h1>
+      <p class="mt-4 text-lg leading-8 text-slate-600">CardRadar 的评分是用于排序和初筛的启发式模型，不替代官方条款，也不构成金融建议。</p>
+    </div>
+
+    <div class="mt-10 grid gap-6 lg:grid-cols-2">
+      <section class="panel p-6">
+        <h2 class="text-2xl font-black text-slate-950">信用卡评分 100 分</h2>
+        <ul class="mt-5 space-y-3 text-sm leading-6 text-slate-600">
+          <li><strong class="text-slate-950">25%</strong> 开卡奖励净值：估算奖励价值相对年费和消费门槛。</li>
+          <li><strong class="text-slate-950">20%</strong> 日常返现/积分收益：取公开类别收益中可量化的较高值。</li>
+          <li><strong class="text-slate-950">15%</strong> 年费回本能力：年费、免年费规则和权益抵扣。</li>
+          <li><strong class="text-slate-950">15%</strong> 权益质量：旅行保障、休息室、抵扣、商户权益等。</li>
+          <li><strong class="text-slate-950">10%</strong> 积分/里程灵活性：转点、里程、网络覆盖。</li>
+          <li><strong class="text-slate-950">10%</strong> 申请可达性：公开申请和资格透明度。</li>
+          <li><strong class="text-slate-950">5%</strong> 规则透明度/风险扣分：来源和门槛是否清楚。</li>
+        </ul>
+      </section>
+
+      <section class="panel p-6">
+        <h2 class="text-2xl font-black text-slate-950">优惠评分 100 分</h2>
+        <ul class="mt-5 space-y-3 text-sm leading-6 text-slate-600">
+          <li><strong class="text-slate-950">30%</strong> 实际优惠率：估算价值除以最低消费。</li>
+          <li><strong class="text-slate-950">20%</strong> 最高可省金额：按币种尺度归一化。</li>
+          <li><strong class="text-slate-950">15%</strong> 适用人群广度：限定卡、新户或定向会降低分数。</li>
+          <li><strong class="text-slate-950">10%</strong> 使用便利度：需报名、分期、复杂路径会扣分。</li>
+          <li><strong class="text-slate-950">10%</strong> 有效期紧迫度：临近过期但未过期的活动更值得关注。</li>
+          <li><strong class="text-slate-950">10%</strong> 名额/确定性：名额极少、随机立减会扣分。</li>
+          <li><strong class="text-slate-950">5%</strong> 来源可靠性：官方、聚合站、社区分级。</li>
+        </ul>
+      </section>
+    </div>
+
+    <section class="panel mt-6 p-6">
+      <h2 class="text-2xl font-black text-slate-950">风险扣分</h2>
+      <p class="mt-4 max-w-4xl text-sm leading-7 text-slate-600">系统会识别随机立减、名额极少、需要分期、规则复杂、疑似过期、需登录或定向用户等关键词并扣分。分期优惠需要特别注意手续费、利息和提前还款规则。</p>
+    </section>
+
+    <section class="panel mt-6 p-6">
+      <h2 class="text-2xl font-black text-slate-950">免责声明</h2>
+      <ul class="mt-4 space-y-3 text-sm leading-7 text-slate-600">
+        <li>本站仅做公开信息整理，不构成金融建议。</li>
+        <li>信用卡申请、奖励、优惠是否可用，以银行和商户官方条款为准。</li>
+        <li>部分优惠可能有名额、地区、用户资格、卡 BIN、报名路径、支付方式限制。</li>
+        <li>不鼓励超出偿还能力消费，不鼓励为了奖励而借贷或分期。</li>
+        <li>对分期优惠要特别标注是否可能产生手续费或利息。</li>
+      </ul>
+    </section>
+  </section>
+</BaseLayout>

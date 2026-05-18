@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCards, getOffers } from '../lib/data';
+import ListPage from '../components/ListPage.astro';
+
+const cards = getCards('CN');
+const offers = getOffers('CN');
+---
+
+<BaseLayout title="中国大陆信用卡优惠">
+  <ListPage
+    title="中国大陆信用卡与刷卡优惠"
+    eyebrow="Mainland China"
+    description="覆盖公开银行活动、移动支付满减、餐饮购物商户优惠和权益公告。每条数据保留来源链接和最后检查时间。"
+    cards={cards}
+    offers={offers}
+    region="CN"
+  />
+</BaseLayout>

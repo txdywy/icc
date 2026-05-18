@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cn-cmbc-standard",
+    "region": "CN",
+    "issuer": "民生银行",
+    "name": "民生信用卡",
+    "network": [
+      "UnionPay",
+      "Visa",
+      "Mastercard"
+    ],
+    "annualFee": {
+      "amount": 0,
+      "currency": "CNY",
+      "waiver": "以卡种官方规则为准"
+    },
+    "welcomeOffer": {
+      "headline": "新户礼以民生信用卡官网最新活动为准",
+      "estimatedValue": 100,
+      "currency": "CNY"
+    },
+    "rewards": [
+      {
+        "category": "daily",
+        "rateText": "消费积分及商户活动以官方公告为准",
+        "estimatedRate": 0.01
+      }
+    ],
+    "perks": [
+      "官方活动覆盖餐饮、购物、移动支付等场景",
+      "部分活动可能需报名或限量"
+    ],
+    "eligibility": "以银行审批与活动条款为准",
+    "imageUrl": "https://creditcard.cmbc.com.cn/tyglweb/statics/CN/PC/images/quanmin.png",
+    "imageAlt": "民生信用卡卡面图",
+    "imageSourceUrl": "https://creditcard.cmbc.com.cn/",
+    "applyUrl": "https://creditcard.cmbc.com.cn/",
+    "sourceUrls": [
+      "https://creditcard.cmbc.com.cn/"
+    ],
+    "lastCheckedAt": "2026-05-17T16:32:59.405Z",
+    "score": 68,
+    "scoreBreakdown": {
+      "welcomeOffer": 25,
+      "rewards": 4,
+      "annualFeeValue": 15,
+      "perks": 6,
+      "flexibility": 5,
+      "accessibility": 9,
+      "transparency": 4
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hk-citi-cash-back-card",
+    "region": "HK",
+    "issuer": "Citi HK",
+    "name": "Citi Cash Back Card",
+    "network": [
+      "Visa",
+      "Mastercard"
+    ],
+    "annualFee": {
+      "amount": 1800,
+      "currency": "HKD",
+      "waiver": "年费豁免以发卡机构条款为准"
+    },
+    "welcomeOffer": {
+      "headline": "Citi HK 公开迎新优惠，估算价值约 HK$500",
+      "estimatedValue": 500,
+      "currency": "HKD"
+    },
+    "rewards": [
+      {
+        "category": "cashback",
+        "rateText": "现金回赠比例以当前公开优惠和消费类别为准",
+        "estimatedRate": 0.02
+      }
+    ],
+    "perks": [
+      "迎新优惠",
+      "现金回赠活动",
+      "商户折扣"
+    ],
+    "eligibility": "以 Citi HK 审批结果和公开条款为准",
+    "imageUrl": "https://www.citibank.com.hk/english/credit-cards/images/cards/filter/cashbackface-175x110.jpg",
+    "imageAlt": "Citi Cash Back Card",
+    "imageSourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
+    "applyUrl": "https://www.citibank.com.hk/english/credit-cards/",
+    "sourceUrls": [
+      "https://www.citibank.com.hk/english/credit-cards/"
+    ],
+    "lastCheckedAt": "2026-05-17T16:32:59.405Z",
+    "score": 41.4,
+    "scoreBreakdown": {
+      "welcomeOffer": 6.9,
+      "rewards": 8,
+      "annualFeeValue": 2.5,
+      "perks": 9,
+      "flexibility": 4,
+      "accessibility": 7,
+      "transparency": 4
+    }
+  }
+]

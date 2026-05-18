@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCards, getOffers } from '../lib/data';
+import ListPage from '../components/ListPage.astro';
+
+const cards = getCards('HK');
+const offers = getOffers('HK');
+---
+
+<BaseLayout title="香港信用卡优惠">
+  <ListPage
+    title="香港信用卡迎新礼与商户优惠"
+    eyebrow="Hong Kong"
+    description="覆盖香港公开信用卡迎新、现金回赠、Asia Miles、商户折扣和推广码活动。"
+    cards={cards}
+    offers={offers}
+    region="HK"
+  />
+</BaseLayout>

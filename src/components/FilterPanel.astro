@@ -1,0 +1,145 @@
+---
+import { formatOfferCategory } from '../lib/format';
+
+interface Props {
+  target: 'offers' | 'cards';
+  issuers: string[];
+  categories?: string[];
+  merchants?: string[];
+}
+
+const { target, issuers, categories = [], merchants = [] } = Astro.props;
+---
+
+<section class="panel p-4" data-cardradar-filter-panel aria-label="筛选与排序">
+  <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-6">
+    <input class="control lg:col-span-2" data-filter="query" type="search" placeholder="搜索银行、商户、关键词" />
+    <select class="control" data-filter="region">
+      <option value="all">全部地区</option>
+      <option value="CN">中国大陆</option>
+      <option value="US">美国</option>
+      <option value="HK">香港</option>
+    </select>
+    <select class="control" data-filter="issuer">
+      <option value="">全部银行</option>
+      {issuers.map((issuer) => <option value={issuer}>{issuer}</option>)}
+    </select>
+    {target === 'offers' && (
+      <select class="control" data-filter="category">
+        <option value="all">全部类别</option>
+        {categories.map((category) => <option value={category}>{formatOfferCategory(category)}</option>)}
+      </select>
+    )}
+    {target === 'offers' && (
+      <select class="control" data-filter="merchant">
+        <option value="">全部商户</option>
+        {merchants.map((merchant) => <option value={merchant}>{merchant}</option>)}
+      </select>
+    )}
+    <select class="control" data-filter="sort">
+      <option value="score">评分最高</option>
+      {target === 'offers' && <option value="expiring">即将过期</option>}
+      <option value="updated">最新更新</option>
+      {target === 'offers' && <option value="value">最高优惠金额</option>}
+      {target === 'offers' && <option value="minSpend">最低门槛</option>}
+      {target === 'cards' && <option value="annualFee">最低年费</option>}
+      {target === 'cards' && <option value="welcomeValue">最高开卡奖励</option>}
+    </select>
+  </div>
+  <div class="mt-3 flex flex-wrap items-center gap-3">
+    <label class="flex items-center gap-2 text-sm text-slate-600">
+      <input class="h-4 w-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500" data-filter="minScore" type="checkbox" value="70" />
+      仅看 70 分以上
+    </label>
+    {target === 'offers' && (
+      <label class="flex items-center gap-2 text-sm text-slate-600">
+        <input class="h-4 w-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500" data-filter="expiringSoon" type="checkbox" />
+        即将过期
+      </label>
+    )}
+    {target === 'offers' && (
+      <label class="flex items-center gap-2 text-sm text-slate-600">
+        <input class="h-4 w-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500" data-filter="requiresRegistration" type="checkbox" />
+        需报名
+      </label>
+    )}
+    <span class="ml-auto text-sm font-medium text-slate-500"><span data-result-count></span></span>
+  </div>
+</section>
+
+<script>
+  function dateValue(value, fallback = Number.POSITIVE_INFINITY) {
+    if (!value) return fallback;
+    const time = Date.parse(value);
+    return Number.isNaN(time) ? fallback : time;
+  }
+
+  function initFilterPanel(panel) {
+    const root = panel.closest('[data-list-target]');
+    const targetType = root?.dataset.listTarget;
+    const itemSelector = targetType === 'cards' ? '.card-item' : '.offer-item';
+    const container = root?.querySelector('.grid:has(> .card-item), .grid:has(> .offer-item)');
+    const items = Array.from(root?.querySelectorAll(itemSelector) ?? []);
+    const controls = Array.from(panel.querySelectorAll('[data-filter]'));
+    const count = panel.querySelector('[data-result-count]');
+
+    function valueOf(name) {
+      const control = panel.querySelector(`[data-filter="${name}"]`);
+      if (!control) return '';
+      if (control.type === 'checkbox') return control.checked ? control.value || 'true' : '';
+      return control.value;
+    }
+
+    function applyFilters() {
+      const query = valueOf('query').toLowerCase().trim();
+      const region = valueOf('region');
+      const issuer = valueOf('issuer');
+      const category = valueOf('category');
+      const merchant = valueOf('merchant');
+      const minScore = valueOf('minScore') ? Number(valueOf('minScore')) : 0;
+      const expiringSoon = Boolean(valueOf('expiringSoon'));
+      const requiresRegistration = Boolean(valueOf('requiresRegistration'));
+      const sort = valueOf('sort') || 'score';
+      const now = Date.now();
+
+      const visible = items.filter((item) => {
+        const data = item.dataset;
+        const daysLeft = (dateValue(data.endDate) - now) / 86400000;
+        return (
+          (!query || (data.search ?? '').includes(query)) &&
+          (!region || region === 'all' || data.region === region) &&
+          (!issuer || data.issuer === issuer) &&
+          (!category || category === 'all' || data.category === category) &&
+          (!merchant || data.merchant === merchant) &&
+          Number(data.score ?? 0) >= minScore &&
+          (!expiringSoon || (daysLeft >= 0 && daysLeft <= 14)) &&
+          (!requiresRegistration || data.registration === 'true')
+        );
+      });
+
+      visible.sort((a, b) => {
+        const ad = a.dataset;
+        const bd = b.dataset;
+        if (sort === 'expiring') return dateValue(ad.endDate) - dateValue(bd.endDate);
+        if (sort === 'updated') return dateValue(bd.updated, 0) - dateValue(ad.updated, 0);
+        if (sort === 'value') return Number(bd.value ?? 0) - Number(ad.value ?? 0);
+        if (sort === 'minSpend') return Number(ad.minSpend || Number.POSITIVE_INFINITY) - Number(bd.minSpend || Number.POSITIVE_INFINITY);
+        if (sort === 'annualFee') return Number(ad.annualFee ?? 0) - Number(bd.annualFee ?? 0);
+        if (sort === 'welcomeValue') return Number(bd.welcomeValue ?? 0) - Number(ad.welcomeValue ?? 0);
+        return Number(bd.score ?? 0) - Number(ad.score ?? 0);
+      });
+
+      for (const item of items) item.classList.add('hidden');
+      for (const item of visible) {
+        item.classList.remove('hidden');
+        container?.appendChild(item);
+      }
+      if (count) count.textContent = `${visible.length} 条结果`;
+    }
+
+    for (const control of controls) control.addEventListener('input', applyFilters);
+    applyFilters();
+  }
+
+  for (const panel of document.querySelectorAll('[data-cardradar-filter-panel]')) initFilterPanel(panel);
+</script>

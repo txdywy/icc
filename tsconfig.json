@@ -1,0 +1,12 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "moduleResolution": "Bundler",
+    "types": ["node", "vitest/globals"],
+    "allowJs": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  },
+  "include": ["src", "scripts", "tests", "astro.config.mjs", "tailwind.config.mjs", "vitest.config.ts"]
+}

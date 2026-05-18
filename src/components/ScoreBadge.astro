@@ -1,0 +1,15 @@
+---
+import { scoreTone } from '../lib/format';
+
+interface Props {
+  score?: number;
+  label?: string;
+}
+
+const { score, label = '评分' } = Astro.props;
+---
+
+<div class={`inline-flex min-w-20 flex-col items-center rounded-2xl border px-3 py-2 ${scoreTone(score)}`}>
+  <span class="text-[10px] font-semibold uppercase tracking-wide opacity-70">{label}</span>
+  <span class="text-2xl font-black tabular-nums leading-none">{score?.toFixed(0) ?? '—'}</span>
+</div>

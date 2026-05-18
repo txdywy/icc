@@ -1,0 +1,61 @@
+---
+import { uniqueValues } from '../lib/search';
+import type { CreditCard, Offer, Region } from '../lib/schema';
+import CardItem from './CardItem.astro';
+import FilterPanel from './FilterPanel.astro';
+import OfferCard from './OfferCard.astro';
+
+interface Props {
+  title: string;
+  eyebrow: string;
+  description: string;
+  cards: CreditCard[];
+  offers: Offer[];
+  region?: Region;
+}
+
+const { title, eyebrow, description, cards, offers, region } = Astro.props;
+const issuers = uniqueValues([...cards, ...offers], (item) => item.issuer);
+const categories = uniqueValues(offers, (offer) => offer.category);
+const merchants = uniqueValues(offers, (offer) => offer.merchant);
+---
+
+<section class="shell py-10">
+  <div class="mb-8 max-w-3xl">
+    <p class="text-sm font-bold uppercase tracking-[0.22em] text-blue-700">{eyebrow}</p>
+    <h1 class="mt-3 text-4xl font-black tracking-tight text-slate-950 md:text-5xl">{title}</h1>
+    <p class="mt-4 text-lg leading-8 text-slate-600">{description}</p>
+  </div>
+
+  {offers.length > 0 && (
+    <section class="mb-12" data-list-target="offers">
+      <div class="mb-4 flex items-end justify-between gap-4">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-950">优惠情报</h2>
+          <p class="mt-1 text-sm text-slate-500">可按地区、银行、类别、商户、评分和关键词筛选。</p>
+        </div>
+        {region && <a class="hidden text-sm font-semibold text-blue-700 md:block" href="/offers">查看全部地区</a>}
+      </div>
+      <FilterPanel target="offers" issuers={issuers} categories={categories} merchants={merchants} />
+      <div class="mt-5 grid gap-4 lg:grid-cols-2">
+        {offers.map((offer) => <OfferCard offer={offer} />)}
+      </div>
+    </section>
+  )}
+
+  {cards.length > 0 && (
+    <section data-list-target="cards">
+      <div class="mb-4 flex items-end justify-between gap-4">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-950">信用卡列表</h2>
+          <p class="mt-1 text-sm text-slate-500">展示年费、开卡奖励、核心返现/积分和权益。</p>
+        </div>
+        {region && <a class="hidden text-sm font-semibold text-blue-700 md:block" href="/cards">查看全部信用卡</a>}
+      </div>
+      <FilterPanel target="cards" issuers={issuers} />
+      <div class="mt-5 grid gap-4 lg:grid-cols-2">
+        {cards.map((card) => <CardItem card={card} />)}
+      </div>
+    </section>
+  )}
+</section>

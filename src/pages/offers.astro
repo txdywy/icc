@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getOffers } from '../lib/data';
+import { uniqueValues } from '../lib/search';
+import FilterPanel from '../components/FilterPanel.astro';
+import OfferCard from '../components/OfferCard.astro';
+
+const offers = getOffers();
+const issuers = uniqueValues(offers, (offer) => offer.issuer);
+const categories = uniqueValues(offers, (offer) => offer.category);
+const merchants = uniqueValues(offers, (offer) => offer.merchant);
+---
+
+<BaseLayout title="全部优惠">
+  <section class="shell py-10" data-list-target="offers">
+    <div class="mb-8 max-w-3xl">
+      <p class="text-sm font-bold uppercase tracking-[0.22em] text-blue-700">优惠库</p>
+      <h1 class="mt-3 text-4xl font-black tracking-tight text-slate-950 md:text-5xl">全部优惠</h1>
+      <p class="mt-4 text-lg leading-8 text-slate-600">按地区、银行、类别、商户、报名要求、评分和有效期筛选排序。</p>
+    </div>
+    <FilterPanel target="offers" issuers={issuers} categories={categories} merchants={merchants} />
+    <div class="mt-5 grid gap-4 lg:grid-cols-2">
+      {offers.map((offer) => <OfferCard offer={offer} />)}
+    </div>
+  </section>
+</BaseLayout>

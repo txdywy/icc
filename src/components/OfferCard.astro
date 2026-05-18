@@ -1,0 +1,67 @@
+---
+import { formatDate, formatMoney, formatOfferCategory, formatRegion, formatReliability } from '../lib/format';
+import type { Offer } from '../lib/schema';
+import ScoreBadge from './ScoreBadge.astro';
+
+interface Props {
+  offer: Offer;
+}
+
+const { offer } = Astro.props;
+---
+
+<article
+  class="offer-item panel p-5 transition hover:-translate-y-0.5 hover:border-blue-200"
+  data-region={offer.region}
+  data-issuer={offer.issuer}
+  data-category={offer.category}
+  data-merchant={offer.merchant ?? ''}
+  data-registration={String(Boolean(offer.requiresRegistration))}
+  data-score={offer.score ?? 0}
+  data-end-date={offer.endDate ?? ''}
+  data-updated={offer.lastCheckedAt}
+  data-value={offer.estimatedValue ?? offer.maxDiscount ?? 0}
+  data-min-spend={offer.minSpend ?? ''}
+  data-search={`${offer.title} ${offer.issuer} ${offer.merchant ?? ''} ${offer.valueText} ${offer.termsSummary ?? ''} ${offer.cardNames?.join(' ') ?? ''}`.toLowerCase()}
+>
+  <div class="flex items-start justify-between gap-4">
+    <div class="min-w-0">
+      <div class="mb-3 flex flex-wrap gap-2">
+        <span class="chip">{formatRegion(offer.region)}</span>
+        <span class="chip">{formatOfferCategory(offer.category)}</span>
+        <span class="chip">{formatReliability(offer.sourceReliability)}</span>
+      </div>
+      <h3 class="text-lg font-bold leading-snug text-slate-950">{offer.title}</h3>
+      <p class="mt-2 text-sm text-slate-500">{offer.issuer}{offer.merchant ? ` · ${offer.merchant}` : ''}</p>
+    </div>
+    <ScoreBadge score={offer.score} />
+  </div>
+  <dl class="mt-5 grid gap-3 text-sm sm:grid-cols-2">
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">优惠力度</dt>
+      <dd class="mt-1 font-semibold text-slate-900">{offer.valueText}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">估算价值</dt>
+      <dd class="mt-1 font-semibold text-slate-900">{formatMoney(offer.estimatedValue ?? offer.maxDiscount, offer.currency)}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">有效期</dt>
+      <dd class="mt-1 text-slate-700">{formatDate(offer.startDate)} 至 {formatDate(offer.endDate)}</dd>
+    </div>
+    <div>
+      <dt class="text-xs font-semibold uppercase tracking-wide text-slate-400">门槛</dt>
+      <dd class="mt-1 text-slate-700">{offer.minSpend ? formatMoney(offer.minSpend, offer.currency) : '未注明'}</dd>
+    </div>
+  </dl>
+  <div class="mt-4 flex flex-wrap gap-2 text-xs text-slate-500">
+    <span class="rounded-full bg-slate-100 px-2.5 py-1">{offer.requiresRegistration ? '需报名' : '无需报名'}</span>
+    {offer.quotaText && <span class="rounded-full bg-amber-50 px-2.5 py-1 text-amber-700">{offer.quotaText.slice(0, 36)}</span>}
+    {offer.usageLimit && <span class="rounded-full bg-slate-100 px-2.5 py-1">{offer.usageLimit.slice(0, 36)}</span>}
+  </div>
+  {offer.termsSummary && <p class="mt-4 line-clamp-2 text-sm leading-6 text-slate-600">{offer.termsSummary}</p>}
+  <div class="mt-5 flex items-center justify-between gap-3 border-t border-slate-200 pt-4 text-xs text-slate-500">
+    <span>最后检查：{formatDate(offer.lastCheckedAt)}</span>
+    <a class="font-semibold text-blue-700 hover:text-blue-900" href={offer.sourceUrl} target="_blank" rel="noreferrer">来源链接</a>
+  </div>
+</article>

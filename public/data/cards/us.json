@@ -1,0 +1,115 @@
+[
+  {
+    "id": "us-capital-one-venture-x",
+    "region": "US",
+    "issuer": "Capital One",
+    "name": "Capital One Venture X Rewards Credit Card",
+    "network": [
+      "Visa"
+    ],
+    "annualFee": {
+      "amount": 395,
+      "currency": "USD"
+    },
+    "welcomeOffer": {
+      "headline": "Capital One 公开开卡奖励：估算价值约 US$750，需满足约 US$4,000 消费门槛",
+      "estimatedValue": 750,
+      "currency": "USD",
+      "spendRequirement": 4000,
+      "spendPeriodDays": 90
+    },
+    "rewards": [
+      {
+        "category": "travel",
+        "rateText": "通过 Capital One Travel 预订旅行可获得更高里程倍率",
+        "estimatedRate": 0.1
+      },
+      {
+        "category": "daily",
+        "rateText": "日常消费每 1 美元可累积 2 倍里程",
+        "estimatedRate": 0.02
+      }
+    ],
+    "perks": [
+      "年度旅行报销",
+      "周年里程奖励",
+      "Global Entry 或 TSA PreCheck 报销",
+      "机场贵宾室权益"
+    ],
+    "eligibility": "以 Capital One 审批结果和公开活动条款为准",
+    "imageUrl": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
+    "imageAlt": "Capital One Venture X Rewards Credit Card卡面图",
+    "imageSourceUrl": "https://www.capitalone.com/credit-cards/venture-x/",
+    "applyUrl": "https://www.capitalone.com/credit-cards/venture-x/",
+    "sourceUrls": [
+      "https://www.capitalone.com/credit-cards/venture-x/"
+    ],
+    "lastCheckedAt": "2026-05-17T16:32:59.405Z",
+    "score": 94,
+    "scoreBreakdown": {
+      "welcomeOffer": 25,
+      "rewards": 20,
+      "annualFeeValue": 15,
+      "perks": 12,
+      "flexibility": 8,
+      "accessibility": 9,
+      "transparency": 5
+    }
+  },
+  {
+    "id": "us-chase-sapphire-preferred",
+    "region": "US",
+    "issuer": "Chase",
+    "name": "Chase Sapphire Preferred",
+    "network": [
+      "Visa"
+    ],
+    "annualFee": {
+      "amount": 95,
+      "currency": "USD"
+    },
+    "welcomeOffer": {
+      "headline": "Chase 公开开卡奖励：估算价值约 US$938，需满足约 US$5,000 消费门槛",
+      "estimatedValue": 938,
+      "currency": "USD",
+      "spendRequirement": 5000,
+      "spendPeriodDays": 90
+    },
+    "rewards": [
+      {
+        "category": "travel",
+        "rateText": "通过 Chase Travel 等指定渠道可获得更高积分倍率",
+        "estimatedRate": 0.05
+      },
+      {
+        "category": "dining",
+        "rateText": "餐饮消费可获得较高积分倍率，具体以 Chase 公开条款为准",
+        "estimatedRate": 0.03
+      }
+    ],
+    "perks": [
+      "积分转点伙伴",
+      "旅行保障",
+      "酒店抵扣以当前条款为准"
+    ],
+    "eligibility": "以 Chase 审批结果和公开活动条款为准",
+    "imageUrl": "https://creditcards.chase.com/bcs/images.ctfassets.net/8qmz0ef3xzub/7iFzyweepMTrfGn2VrDdL5/74581d943a86bbe5c2e5800760def68f/sapphire_preferred_card.webp",
+    "imageAlt": "Chase Sapphire Preferred® Credit Card",
+    "imageSourceUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+    "applyUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+    "sourceUrls": [
+      "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
+    ],
+    "lastCheckedAt": "2026-05-17T16:32:59.405Z",
+    "score": 86,
+    "scoreBreakdown": {
+      "welcomeOffer": 25,
+      "rewards": 20,
+      "annualFeeValue": 15,
+      "perks": 9,
+      "flexibility": 3,
+      "accessibility": 9,
+      "transparency": 5
+    }
+  }
+]
