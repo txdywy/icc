@@ -1,5 +1,104 @@
 [
   {
+    "id": "cn-中信银行-信用卡精选好文-更多好文-落落说卡-篇零-拆解-农行尊然白年费要涨-从历史到应对-一篇理清所有关键-2026年接送机权益大盘点-哪家强",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "里程优惠，最高约 ¥5.8",
+    "estimatedValue": 2600,
+    "currency": "CNY",
+    "minSpend": 5.8,
+    "maxDiscount": 2600,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-落落说卡-篇零-拆解-农行尊然白年费要涨-从历史到应对-一篇理清所有关键-2026年接送机权益大盘点-哪家强",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "里程优惠，最高约 ¥5.8",
+    "estimatedValue": 2600,
+    "currency": "CNY",
+    "minSpend": 5.8,
+    "maxDiscount": 2600,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "sourceUrl": "https://post.smzdm.com/p/a3mp9r6n/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-2026年接送机权益大盘点-哪家强",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "2026年接送机权益大盘点！哪家强？...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "里程优惠，最高约 ¥5.8",
+    "estimatedValue": 2600,
+    "currency": "CNY",
+    "minSpend": 5.8,
+    "maxDiscount": 2600,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "2026年接送机权益大盘点！哪家强？...",
+    "sourceUrl": "https://post.smzdm.com/p/ak850x89/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
     "id": "cn-银联-618信用卡使用技巧-话费卡-购物节大幕即将开始-所以闲话少谈-直接开始说一-信用卡新户开卡礼-作为羊肉的忠实爱好者",
     "region": "CN",
     "issuer": "银联",
@@ -19,7 +118,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -52,7 +151,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -99,6 +198,72 @@
     }
   },
   {
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-落落说卡-篇零-拆解-农行尊然白年费要涨-从历史到应对-一篇理清所有关键",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 4,
+    "currency": "USD",
+    "minSpend": 5.8,
+    "maxDiscount": 4,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
+    "score": 70.6,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 1.6,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-落落说卡-篇零-拆解-农行尊然白年费要涨-从历史到应对-一篇理清所有关键-2026年接送机权益大盘点-哪家强",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 4,
+    "currency": "USD",
+    "minSpend": 5.8,
+    "maxDiscount": 4,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 落落说卡 篇零：拆解｜农行尊然白年费要涨？从历史到应对，一篇理清所有关键 2026年接送机权益大盘点！哪家强？...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
+    "score": 70.6,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 1.6,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
     "id": "cn-民生银行-民生中国石油联名加油信用卡-可以插进加油机的信用卡-加油扫码支付满200元立减25元-积分兑换洗车服务-免首年年费-积分兑换洗车服务-立即申请",
     "region": "CN",
     "issuer": "民生银行",
@@ -128,70 +293,6 @@
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 5,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-农行尊然白要变天-这张卡反而更稳了",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "农行尊然白要变天？这张卡反而更稳了！...",
-    "category": "shopping",
-    "discountType": "points",
-    "valueText": "迎新优惠",
-    "estimatedValue": 3000,
-    "currency": "CNY",
-    "maxDiscount": 3000,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "农行尊然白要变天？这张卡反而更稳了！ 近期整个卡圈确实在密集调整权益。好在兴业和中信的活动还在继续，感兴趣的朋友回顾：但农行尊然白积分抵扣年费要上调的消息，已经在论坛里引起了不少讨论。如果你看重权益的稳定性，现在确实可以考虑换个思路，看看农行定位更高的运通黑金卡。📊 尊然白温暖升级：一表看懂变化论坛中传言的调整计划，核心就是银联/万事达版的年费规则要向运通版靠拢，预计可能在今年三季度落实。如果真的改，估计会提前45天发公告。但以农行的行事风格来说，应该会延续新卡新办法、老卡老办法的方式来调整。这次调整尤其会对家庭成员多的持卡人产生影响。如果需要配多张附属卡，年费成本可能从原本的几万积分变成数十万积分，是不小的负担。🌟 农行运通黑金卡：更稳定的高端之选在这一轮普遍的权益缩水中，农行运通黑金卡凭借更全面、更稳定的权益，成为了一个更可靠的选择。💳 年费规则：年费金额：主卡3000元/年，附属卡同样为3000元/年。积分抵扣：主附卡均支持用40万积分抵扣次年年费特别提醒：手头攒够40万积分再激活。因为它不支持\"先扣后返\"，激活时积分不足会自动扣除3000元年费，并且事后无法补扣。✈️...",
-    "sourceUrl": "https://post.smzdm.com/p/a5r7793x/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 59,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-近期整个卡圈确实在密集调整权益-好在兴业和中信的活动还在继续-感兴趣的朋友回顾-但农行尊然白积分抵扣年费要上调的消息-已经在论坛里引起了不少讨论-如果你看",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "近期整个卡圈确实在密集调整权益。好在兴业和中信的活动还在继续，感兴趣的朋友回顾：但农行尊然白积分抵扣年费要上调的消息，已经在论坛里引起了不少讨论。如果你看...",
-    "category": "shopping",
-    "discountType": "points",
-    "valueText": "迎新优惠",
-    "estimatedValue": 3000,
-    "currency": "CNY",
-    "maxDiscount": 3000,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "近期整个卡圈确实在密集调整权益。好在兴业和中信的活动还在继续，感兴趣的朋友回顾：但农行尊然白积分抵扣年费要上调的消息，已经在论坛里引起了不少讨论。如果你看重权益的稳定性，现在确实可以考虑换个思路，看看农行定位更高的运通黑金卡。📊 尊然白温暖升级：一表看懂变化论坛中传言的调整计划，核心就是银联/万事达版的年费规则要向运通版靠拢，预计可能在今年三季度落实。如果真的改，估计会提前45天发公告。但以农行的行事风格来说，应该会延续新卡新办法、老卡老办法的方式来调整。这次调整尤其会对家庭成员多的持卡人产生影响。如果需要配多张附属卡，年费成本可能从原本的几万积分变成数十万积分，是不小的负担。🌟 农行运通黑金卡：更稳定的高端之选在这一轮普遍的权益缩水中，农行运通黑金卡凭借更全面、更稳定的权益，成为了一个更可靠的选择。💳 年费规则：年费金额：主卡3000元/年，附属卡同样为3000元/年。积分抵扣：主附卡均支持用40万积分抵扣次年年费特别提醒：手头攒够40万积分再激活。因为它不支持\"先扣后返\"，激活时积分不足会自动扣除3000元年费，并且事后无法补扣。✈️...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 59,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
       "riskPenalty": 0
     }
   },
@@ -229,134 +330,6 @@
     }
   },
   {
-    "id": "cn-银联-玩转高端信用卡-篇零-中信无限卡怎么刷蕞划算-正确姿势一篇看懂-buff叠满-王炸活动上线-这个618有平安就够了",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 buff叠满，王炸活动上线，这个618有平安就够了...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠",
-    "estimatedValue": 888,
-    "currency": "CNY",
-    "maxDiscount": 888,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 buff叠满，王炸活动上线，这个618有平安就够了 今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://post.smzdm.com/p/ak850no4/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 47,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
-    "id": "cn-银联-buff叠满-王炸活动上线-这个618有平安就够了",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "buff叠满，王炸活动上线，这个618有平安就够了...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠",
-    "estimatedValue": 888,
-    "currency": "CNY",
-    "maxDiscount": 888,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "buff叠满，王炸活动上线，这个618有平安就够了 今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://post.smzdm.com/p/a26eeg27/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 47,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
-    "id": "cn-平安银行-buff叠满-王炸活动上线-这个618有平安就够了",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "buff叠满，王炸活动上线，这个618有平安就够了...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠",
-    "estimatedValue": 888,
-    "currency": "CNY",
-    "maxDiscount": 888,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "buff叠满，王炸活动上线，这个618有平安就够了 今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://post.smzdm.com/p/a26eeg27/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 47,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
-    "id": "cn-平安银行-今年的618来的格外的早-各大电商平台已经开始促销活动了-在享受平台促销的同时-叠加银行的支付满减活动-轻松享受-折上折-毕竟很多东西本来就不便宜-随着",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠",
-    "estimatedValue": 888,
-    "currency": "CNY",
-    "maxDiscount": 888,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 47,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
     "id": "cn-银联-黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西-银联优购全球-返现力度-海淘活动",
     "region": "CN",
     "issuer": "银联",
@@ -375,7 +348,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -859,7 +832,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -889,7 +862,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -919,7 +892,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -949,7 +922,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -979,7 +952,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1009,7 +982,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1039,7 +1012,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1069,7 +1042,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1099,7 +1072,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1129,7 +1102,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1159,7 +1132,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1189,7 +1162,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1219,7 +1192,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1251,7 +1224,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1265,23 +1238,24 @@
     }
   },
   {
-    "id": "cn-中信银行-中信高端卡权益大缩水-选错卡组织-全年贵宾厅直接归零",
+    "id": "cn-中信银行-玩转高端信用卡-篇零-中信无限卡怎么刷蕞划算-正确姿势一篇看懂",
     "region": "CN",
     "issuer": "中信银行",
     "cardNames": [
       "中信银行信用卡"
     ],
-    "title": "中信高端卡权益大缩水：选错卡组织，全年贵宾厅直接归零...",
+    "title": "玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂...",
     "category": "dining",
-    "discountType": "instant-discount",
-    "valueText": "公开优惠",
+    "discountType": "points",
+    "valueText": "里程优惠，最高约 ¥3.3",
     "currency": "CNY",
+    "minSpend": 3.3,
     "requiresRegistration": false,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "中信高端卡权益大缩水：选错卡组织，全年贵宾厅直接归零 从2026年4月22日起，中信私人银行白金信用卡不再允许你在PP卡贵宾厅和体检之间“二选一”——VISA版自动绑定16点/年机场贵宾厅，万事达版则强制锁定体检权益，连附属卡的8点贵宾厅也一并取消。这意味着，如果你是高频出差族却误办了万事达卡，全年将彻底失去机场休息室使用权，哪怕你愿意自掏腰包兑换也不行。1这不是孤立事件。过去一年，高端信用卡贵宾厅权益正经历系统性收缩：农行尊然白从“无限次”砍到6次，交行白麒麟合并境内境外次数且附属卡共享额度，汇丰直接取消境内贵宾厅，光大、上海银行等则用滑雪、携宠等小众服务替代传统出行权益。银行嘴上说“优化体验”，实则是在信用卡利润率下滑1.2个百分点的背景下，对高成本权益动刀控本。2 3 4 5...",
-    "sourceUrl": "https://post.smzdm.com/p/aggz0427/",
+    "originalText": "玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 众所周知，悦卡金与中信无限是黄金搭档，一个攒积分，一个换里程。但中信无限又有很多权益需要消费才能使用，加上生日月的悦卡与无限还有单独的积分正册，卡友们经常傻傻搞不清楚，整理一篇，供大家在特定的时间打开，建议中信无限持卡用户收藏。以下内容直接输出结论，省去运算过程，都是群友们总结的精华。若有不同意见，您说的都对。1...",
+    "sourceUrl": "https://post.smzdm.com/p/ak850no4/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-23T20:01:28.574Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 39,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1314,7 +1288,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1347,7 +1321,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1380,7 +1354,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.245Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1470,7 +1444,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-05-25T05:14:49.789Z",
+    "lastCheckedAt": "2026-05-25T11:04:32.243Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1481,72 +1455,6 @@
       "certainty": 10,
       "sourceReliability": 5,
       "riskPenalty": -5
-    }
-  },
-  {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-玩转高端信用卡-篇零-中信无限卡怎么刷蕞划算-正确姿势一篇看懂",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 buff叠满，王炸活动上线，这个618有平安就够了 今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 32.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
-    "id": "cn-银联-信用卡精选好文-更多好文-玩转高端信用卡-篇零-中信无限卡怎么刷蕞划算-正确姿势一篇看懂-buff叠满-王炸活动上线-这个618有平安就够了",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 buff叠满，王炸活动上线，这个618有平安就够了...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 玩转高端信用卡 篇零：中信无限卡怎么刷蕞划算？正确姿势一篇看懂 buff叠满，王炸活动上线，这个618有平安就够了 今年的618来的格外的早，各大电商平台已经开始促销活动了，在享受平台促销的同时，叠加银行的支付满减活动，轻松享受“折上折”。毕竟很多东西本来就不便宜，随着AI的大爆发，内存、硬盘、显卡、手机等等都在涨价，随便买点，大几千就没了。而平安银行信用卡也在今年推出了“618 当然选平安”为主题的优惠活动，不止网购，活动内容相当丰富，天天红包、超级红包、分期立减、账单立减等多种buff叠满了！尤其是每日开红包，老胡已经参与2天了，主打一个消费即有礼！几乎没有门槛！01、天天红包：每天开至高888元立减金每日首笔消费就可以开红包，没有消费金额要求，几乎没有门槛，是哪怕是点外卖、买咖啡、交话费、缴水电燃气等，也能获得开红包机会。活动对象：平安信用卡主卡持卡人。活动内容：每日1笔即可开红包，奖品非常丰厚，满减券、积分、更有至高888元立减金大奖，都是实打实的福利！活动无需报名，平安口袋银行APP -...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-05-25T05:14:49.791Z",
-    "score": 32.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
     }
   },
   {
