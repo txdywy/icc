@@ -31,11 +31,14 @@
       "部分活动可能需报名或限量"
     ],
     "eligibility": "以银行审批与活动条款为准",
+    "imageUrl": "https://creditcard.cmbc.com.cn/tyglweb/statics/CN/PC/images/quanmin.png",
+    "imageAlt": "民生信用卡卡面图",
+    "imageSourceUrl": "https://creditcard.cmbc.com.cn/",
     "applyUrl": "https://creditcard.cmbc.com.cn/",
     "sourceUrls": [
       "https://creditcard.cmbc.com.cn/"
     ],
-    "lastCheckedAt": "2026-05-27T05:09:25.064Z",
+    "lastCheckedAt": "2026-05-27T10:47:20.511Z",
     "score": 68,
     "scoreBreakdown": {
       "welcomeOffer": 25,
