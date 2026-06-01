@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.624Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.477Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,7 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -228,7 +228,7 @@
     "originalText": "Mox CreditWelcome OfferMox Credit Card ‧ SHKP Malls: Earn up to $1,245 Point Dollar🛍️ + HKD2,000 Extra Welcome Offer for New Customer🎊This June, spend with your Mox Credit Card at “Instant Point Earn Service” participating merchants in 13 participating SHKP Malls at the designated categories and earn Point Dollar rewards. The first 3,000 new customers who successfully open a Mox Account and apply for a Mox Credit Card with the invitation code “MOXSHKP26” can get HKD200 Cash Rebate instantly (with no minimum spending requirement) and enjoy additional rewards, totalling up to HKD2,000 rewards!Learn more",
     "sourceUrl": "https://mox.com/promotions/MOXSHKP26/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +258,7 @@
     "originalText": "During the promotional period¹, enjoy $0 buy commission when you buy BTC, ETH or SOL through Mox Invest. Start your crypto journey with no extra costs!Investment involves risks.",
     "sourceUrl": "https://mox.com/promotions/crypto-0-buy-fee/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +288,7 @@
     "originalText": "Mox Invest Crypto $0 commission promotion (“Promotion”) terms and conditions",
     "sourceUrl": "https://dev-mox.com/static/202605_MoxInvestCrypto0CommsPormotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +318,7 @@
     "originalText": "Welcome OfferUse code “2000MOX” to open an account and earn up to HKD2,000 cash reward plus 0-requirement access to 2% Unlimited CashBackFrom now until 30 June 2026, new customers who use invitation code “2000MOX” to open a Mox account and apply for a Mox Credit Card can earn up to HKD2,000 in cash rewards by meeting spending requirements at any merchant in Hong Kong. For a limited time, unlock 2% Unlimited CashBack or Unlimited Asia Miles with no balance requirement, and start earning on every daily spend, everywhere!“2000MOX” Invitation Code Promotion Terms and Conditions apply. To borrow or not to borrow? Borrow only if you can repay!Learn more",
     "sourceUrl": "https://mox.com/promotions/2000MOX/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +348,7 @@
     "originalText": "Promotion period from 8 May 2026 to 30 June 2026.",
     "sourceUrl": "https://mox.com/promotions/new-to-invest-triple-0-fees/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -378,7 +378,7 @@
     "originalText": "Mox Invest Triple $0 Rewards Welcome Offer Promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202605_MoxInvestTriple0PromotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -408,7 +408,7 @@
     "originalText": "Mox CreditWelcome OfferMox-exclusive Xiaomi Offer 🖥📱: Up to 7% Total Cash Rewards + 12-mo 0% Instalments 💰 New Customers Get Up to HKD3,400 Cash Bonus🫰️Shop at mi.com or any Xiaomi Store with your Mox Credit Card! Hit the required cumulative spend and unlock up to 5% extra cash rebate (capped at HKD450) plus up to 12-month 0% interest instalments. On top of that, you'll still earn our standard up to 2% Unlimited CashBack — that adds up to a total of up to 7% cash rewards! New to Mox? Sign up with invitation code \"MOXMI26\" to earn worth up to HKD3,400 in cash rewards.Learn more",
     "sourceUrl": "https://mox.com/promotions/2026-xiaomi/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-01T12:29:22.625Z",
+    "lastCheckedAt": "2026-06-01T18:32:59.478Z",
     "score": 36,
     "scoreBreakdown": {
       "effectiveRate": 0,
