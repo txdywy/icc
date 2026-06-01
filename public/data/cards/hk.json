@@ -14,8 +14,8 @@
       "waiver": "年费豁免以发卡机构条款为准"
     },
     "welcomeOffer": {
-      "headline": "Citi HK 公开迎新优惠，估算价值约 HK$500",
-      "estimatedValue": 500,
+      "headline": "Citi HK 公开迎新优惠，估算价值约 HK$1,200",
+      "estimatedValue": 1200,
       "currency": "HKD"
     },
     "rewards": [
@@ -38,10 +38,10 @@
     "sourceUrls": [
       "https://www.citibank.com.hk/english/credit-cards/"
     ],
-    "lastCheckedAt": "2026-05-31T20:00:09.530Z",
-    "score": 41.4,
+    "lastCheckedAt": "2026-06-01T05:53:23.477Z",
+    "score": 51.2,
     "scoreBreakdown": {
-      "welcomeOffer": 6.9,
+      "welcomeOffer": 16.7,
       "rewards": 8,
       "annualFeeValue": 2.5,
       "perks": 9,
