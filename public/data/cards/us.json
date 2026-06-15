@@ -44,7 +44,7 @@
     "sourceUrls": [
       "https://www.capitalone.com/credit-cards/venture-x/"
     ],
-    "lastCheckedAt": "2026-06-15T06:13:52.871Z",
+    "lastCheckedAt": "2026-06-15T12:57:02.994Z",
     "score": 94,
     "scoreBreakdown": {
       "welcomeOffer": 25,
@@ -69,8 +69,8 @@
       "currency": "USD"
     },
     "welcomeOffer": {
-      "headline": "Chase 公开开卡奖励：估算价值约 US$938，需满足约 US$5,000 消费门槛",
-      "estimatedValue": 938,
+      "headline": "Chase 公开开卡奖励：估算价值约 US$1,250，需满足约 US$5,000 消费门槛",
+      "estimatedValue": 1250,
       "currency": "USD",
       "spendRequirement": 5000,
       "spendPeriodDays": 90
@@ -100,7 +100,7 @@
     "sourceUrls": [
       "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
     ],
-    "lastCheckedAt": "2026-06-15T06:13:52.871Z",
+    "lastCheckedAt": "2026-06-15T12:57:02.994Z",
     "score": 86,
     "scoreBreakdown": {
       "welcomeOffer": 25,
