@@ -1,5 +1,104 @@
 [
   {
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-高端卡年费压力大-宝藏特权-多倍积分-攒分其实没那么难",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 2400,
+    "currency": "USD",
+    "minSpend": 99,
+    "maxDiscount": 2400,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！ 山姆会员卡怎么选？260元和680元差在哪，这三类人千万别办 01会籍费用与基础结构截至2026年6月21日，山姆会员商店提供两种个人会籍类型：普通会员卡与卓越会员卡。根据青岛、济南等地新开门店的公开信息，普通卡年费为260元，卓越卡年费为680元，该定价在全国范围内统一适用。两类卡均包含一张主卡和一张亲友卡，但卓越卡额外提供四张副卡及一张公司卡，总计六张可独立使用的实体或数字卡，适用于多成员家庭或小型企业采购场景。亲友卡支持随时解绑并重新绑定新手机号，操作无次数限制，便于灵活分配使用权限。...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-高端卡年费压力大-宝藏特权-多倍积分-攒分其实没那么难-山姆会员卡怎么选-260元和680元差在哪-这三类人千万别办",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！ 山姆会员卡怎么选？260元和680元差在哪，这三类人千万别办...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 2400,
+    "currency": "USD",
+    "minSpend": 99,
+    "maxDiscount": 2400,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！ 山姆会员卡怎么选？260元和680元差在哪，这三类人千万别办 01会籍费用与基础结构截至2026年6月21日，山姆会员商店提供两种个人会籍类型：普通会员卡与卓越会员卡。根据青岛、济南等地新开门店的公开信息，普通卡年费为260元，卓越卡年费为680元，该定价在全国范围内统一适用。两类卡均包含一张主卡和一张亲友卡，但卓越卡额外提供四张副卡及一张公司卡，总计六张可独立使用的实体或数字卡，适用于多成员家庭或小型企业采购场景。亲友卡支持随时解绑并重新绑定新手机号，操作无次数限制，便于灵活分配使用权限。...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-信用卡精选好文-更多好文-高端卡年费压力大-宝藏特权-多倍积分-攒分其实没那么难-山姆会员卡怎么选-260元和680元差在哪-这三类人千万别办",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！ 山姆会员卡怎么选？260元和680元差在哪，这三类人千万别办...",
+    "category": "shopping",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥99",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 99,
+    "maxDiscount": 2400,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 高端卡年费压力大？宝藏特权+多倍积分，攒分其实没那么难！ 山姆会员卡怎么选？260元和680元差在哪，这三类人千万别办 01会籍费用与基础结构截至2026年6月21日，山姆会员商店提供两种个人会籍类型：普通会员卡与卓越会员卡。根据青岛、济南等地新开门店的公开信息，普通卡年费为260元，卓越卡年费为680元，该定价在全国范围内统一适用。两类卡均包含一张主卡和一张亲友卡，但卓越卡额外提供四张副卡及一张公司卡，总计六张可独立使用的实体或数字卡，适用于多成员家庭或小型企业采购场景。亲友卡支持随时解绑并重新绑定新手机号，操作无次数限制，便于灵活分配使用权限。...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
     "id": "cn-银联-618信用卡使用技巧-话费卡-购物节大幕即将开始-所以闲话少谈-直接开始说一-信用卡新户开卡礼-作为羊肉的忠实爱好者",
     "region": "CN",
     "issuer": "银联",
@@ -19,7 +118,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -52,7 +151,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -84,39 +183,6 @@
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
     "originalText": "联名信用卡真相：从追剧咖啡到AI算力，权益香还是坑？ 01视频/内容平台联名卡权益对比视频平台联名信用卡主要通过赠送会员、积分兑换等方式提供娱乐型权益。宁波银行腾讯视频联名卡面向新客户，提供首刷达标送季卡、月度消费达标送月卡，以及1888波豆兑月卡三种路径获取腾讯视频VIP权益，覆盖手机、电脑、平板等多端使用，但不支持电视端1。招商银行bilibili干杯联名卡则将B站大会员年卡与收藏集抽卡权益打包，新户完成3笔满18元快捷支付即可领取，后续还需连续三个月每月任意消费以解锁剩余抽卡次数，权益结构更复杂但互动性更强5。此外，京东PLUS与腾讯视频或爱奇艺的联名会员卡虽非传统信用卡，但常与银行联名卡绑定，如光大、农行等提供“办卡送双平台会员”，实现购物与追剧权益叠加151625。值得注意的是，部分用户反馈权益领取入口隐蔽、无过期提醒，导致权益失效55。1 2 3...",
     "sourceUrl": "https://post.smzdm.com/p/aqrp0w6k/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
-    "score": 61.2,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 1.2,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -6
-    }
-  },
-  {
-    "id": "cn-招商银行-01视频-内容平台联名卡权益对比视频平台联名信用卡主要通过赠送会员-积分兑换等方式提供娱乐型权益-宁波银行腾讯视频联名卡面向新客户-提供首刷达标送季卡-月",
-    "region": "CN",
-    "issuer": "招商银行",
-    "cardNames": [
-      "招商银行信用卡"
-    ],
-    "title": "01视频/内容平台联名卡权益对比视频平台联名信用卡主要通过赠送会员、积分兑换等方式提供娱乐型权益。宁波银行腾讯视频联名卡面向新客户，提供首刷达标送季卡、月...",
-    "category": "dining",
-    "discountType": "points",
-    "valueText": "迎新优惠，最高约 ¥18",
-    "estimatedValue": 18,
-    "currency": "CNY",
-    "minSpend": 18,
-    "maxDiscount": 18,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "01视频/内容平台联名卡权益对比视频平台联名信用卡主要通过赠送会员、积分兑换等方式提供娱乐型权益。宁波银行腾讯视频联名卡面向新客户，提供首刷达标送季卡、月度消费达标送月卡，以及1888波豆兑月卡三种路径获取腾讯视频VIP权益，覆盖手机、电脑、平板等多端使用，但不支持电视端1。招商银行bilibili干杯联名卡则将B站大会员年卡与收藏集抽卡权益打包，新户完成3笔满18元快捷支付即可领取，后续还需连续三个月每月任意消费以解锁剩余抽卡次数，权益结构更复杂但互动性更强5。此外，京东PLUS与腾讯视频或爱奇艺的联名会员卡虽非传统信用卡，但常与银行联名卡绑定，如光大、农行等提供“办卡送双平台会员”，实现购物与追剧权益叠加151625。值得注意的是，部分用户反馈权益领取入口隐蔽、无过期提醒，导致权益失效55。1 2 3...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
     "sourceReliability": "community",
     "lastCheckedAt": "2026-06-20T20:11:12.577Z",
     "score": 61.2,
@@ -231,72 +297,6 @@
     }
   },
   {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-农行悦卡vs中信悦卡白金-谁更适合你的钱包-赴日现金怎么换最划算-避坑指南-最优支付组合",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 农行悦卡VS中信悦卡白金：谁更适合你的钱包？ 赴日现金怎么换最划算？避坑指南+最优支付组合...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 18,
-    "maxDiscount": 4,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 农行悦卡VS中信悦卡白金：谁更适合你的钱包？ 赴日现金怎么换最划算？避坑指南+最优支付组合 01现金获取渠道对比赴日旅行或短期居留时，现金仍是部分场景（如出租车、温泉、小型餐馆）的刚需。根据多份指南，获取日元现金的主要途径包括机场兑换、市区兑换店、ATM取现及银行柜台。机场兑换虽便利但成本最高，实测汇率约4.85–4.95元/100日元，比银行牌价贵4%–6%。市区兑换店（如新宿、道顿堀）通常提供更优汇率且免手续费，适合落地后补充现金。ATM取现则被普遍视为最优选择之一：7-Eleven ATM（Seven Bank）支持Visa、Mastercard等国际卡，手续费固定110日元/笔，汇率接近银行间水平；日本邮政ATM同样可靠，但营业时间受限。值得注意的是，多数日本本土银行ATM不接受外国银行卡，建议优先选择上述两类网点。1 2渠道汇率（元/100日元）手续费适用场景机场兑换柜台4.85–4.95无显性费，隐含高溢价应急首笔现金（≤2万日元）市区兑换店≈4.65（优于机场）部分免手续费落地后补充现金7-Eleven...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
-    "score": 55.3,
-    "scoreBreakdown": {
-      "effectiveRate": 26.7,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
-    "id": "cn-银联-信用卡精选好文-更多好文-农行悦卡vs中信悦卡白金-谁更适合你的钱包-赴日现金怎么换最划算-避坑指南-最优支付组合",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 农行悦卡VS中信悦卡白金：谁更适合你的钱包？ 赴日现金怎么换最划算？避坑指南+最优支付组合...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 18,
-    "maxDiscount": 4,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 农行悦卡VS中信悦卡白金：谁更适合你的钱包？ 赴日现金怎么换最划算？避坑指南+最优支付组合 01现金获取渠道对比赴日旅行或短期居留时，现金仍是部分场景（如出租车、温泉、小型餐馆）的刚需。根据多份指南，获取日元现金的主要途径包括机场兑换、市区兑换店、ATM取现及银行柜台。机场兑换虽便利但成本最高，实测汇率约4.85–4.95元/100日元，比银行牌价贵4%–6%。市区兑换店（如新宿、道顿堀）通常提供更优汇率且免手续费，适合落地后补充现金。ATM取现则被普遍视为最优选择之一：7-Eleven ATM（Seven Bank）支持Visa、Mastercard等国际卡，手续费固定110日元/笔，汇率接近银行间水平；日本邮政ATM同样可靠，但营业时间受限。值得注意的是，多数日本本土银行ATM不接受外国银行卡，建议优先选择上述两类网点。1 2渠道汇率（元/100日元）手续费适用场景机场兑换柜台4.85–4.95无显性费，隐含高溢价应急首笔现金（≤2万日元）市区兑换店≈4.65（优于机场）部分免手续费落地后补充现金7-Eleven...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
-    "score": 55.3,
-    "scoreBreakdown": {
-      "effectiveRate": 26.7,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -9
-    }
-  },
-  {
     "id": "cn-银联-黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西-银联优购全球-返现力度-海淘活动",
     "region": "CN",
     "issuer": "银联",
@@ -315,7 +315,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -345,7 +345,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -375,7 +375,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -405,7 +405,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -435,7 +435,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -465,7 +465,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -495,7 +495,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -525,7 +525,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -555,7 +555,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -585,7 +585,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -615,7 +615,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -645,7 +645,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -675,7 +675,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -705,7 +705,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -737,7 +737,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -800,7 +800,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -833,7 +833,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -866,7 +866,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-20T20:11:12.577Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.549Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -877,96 +877,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -7
-    }
-  },
-  {
-    "id": "cn-中信银行-信用卡精选好文-更多好文-停息挂账怎么申请-2026最新政策-材料清单全解析-吕天贵掌舵中信银行-零售老将回归-合规与财富管理双线突围",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 停息挂账怎么申请？2026最新政策+材料清单全解析 吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围...",
-    "category": "shopping",
-    "discountType": "instant-discount",
-    "valueText": "迎新优惠",
-    "currency": "CNY",
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 停息挂账怎么申请？2026最新政策+材料清单全解析 吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围 01吕天贵正式出任中信银行行长2026年6月15日，中信银行宣布吕天贵已正式就任该行行长兼首席合规官。此次任命填补了自2025年12月原行长芦苇调任邮储银行后持续近半年的行长职位空缺。根据监管批复文件，吕天贵同时被提名为中信银行执行董事候选人，其任职资格已于近期获得国家金融监督管理总局核准。吕天贵现年53岁，拥有四川大学工商管理硕士学位及高级会计师职称，并具备国际注册内部审计师、中国注册会计师等专业资质，现任中信银行党委副书记。1 2...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-17T20:59:29.420Z",
-    "score": 34,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-中信银行-停息挂账怎么申请-2026最新政策-材料清单全解析-吕天贵掌舵中信银行-零售老将回归-合规与财富管理双线突围",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "停息挂账怎么申请？2026最新政策+材料清单全解析 吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围...",
-    "category": "shopping",
-    "discountType": "instant-discount",
-    "valueText": "迎新优惠",
-    "currency": "CNY",
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "停息挂账怎么申请？2026最新政策+材料清单全解析 吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围 01吕天贵正式出任中信银行行长2026年6月15日，中信银行宣布吕天贵已正式就任该行行长兼首席合规官。此次任命填补了自2025年12月原行长芦苇调任邮储银行后持续近半年的行长职位空缺。根据监管批复文件，吕天贵同时被提名为中信银行执行董事候选人，其任职资格已于近期获得国家金融监督管理总局核准。吕天贵现年53岁，拥有四川大学工商管理硕士学位及高级会计师职称，并具备国际注册内部审计师、中国注册会计师等专业资质，现任中信银行党委副书记。1 2...",
-    "sourceUrl": "https://post.smzdm.com/p/anvooxp0/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-17T20:59:29.420Z",
-    "score": 34,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-中信银行-吕天贵掌舵中信银行-零售老将回归-合规与财富管理双线突围",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围...",
-    "category": "shopping",
-    "discountType": "instant-discount",
-    "valueText": "迎新优惠",
-    "currency": "CNY",
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "吕天贵掌舵中信银行：零售老将回归，合规与财富管理双线突围 01吕天贵正式出任中信银行行长2026年6月15日，中信银行宣布吕天贵已正式就任该行行长兼首席合规官。此次任命填补了自2025年12月原行长芦苇调任邮储银行后持续近半年的行长职位空缺。根据监管批复文件，吕天贵同时被提名为中信银行执行董事候选人，其任职资格已于近期获得国家金融监督管理总局核准。吕天贵现年53岁，拥有四川大学工商管理硕士学位及高级会计师职称，并具备国际注册内部审计师、中国注册会计师等专业资质，现任中信银行党委副书记。1 2...",
-    "sourceUrl": "https://post.smzdm.com/p/a95ddgm0/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-17T20:59:29.420Z",
-    "score": 34,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
     }
   },
   {
@@ -986,7 +896,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-20T20:11:12.574Z",
+    "lastCheckedAt": "2026-06-21T05:52:15.547Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
