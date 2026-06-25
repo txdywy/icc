@@ -1,25 +1,25 @@
 [
   {
-    "id": "cn-银联-抓紧上车-年费福利倒计时-新渠道礼遇加持-接送机续期了-老户补贴却要没了-兴业这几张白金卡如何",
+    "id": "cn-银联-信用卡还款方式选错利息差出一辆车-银行从不主动说的真相",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
-    "category": "travel",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 ¥2",
-    "estimatedValue": 900,
+    "title": "信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
+    "category": "mobile-payment",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥2",
+    "estimatedValue": 880,
     "currency": "CNY",
     "minSpend": 2,
-    "maxDiscount": 900,
+    "maxDiscount": 880,
     "requiresRegistration": false,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
-    "sourceUrl": "https://post.smzdm.com/p/a95d3lo0/",
+    "originalText": "信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
+    "sourceUrl": "https://post.smzdm.com/p/avgq0xm9/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 89,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -33,26 +33,59 @@
     }
   },
   {
-    "id": "cn-银联-接送机续期了-老户补贴却要没了-兴业这几张白金卡如何",
+    "id": "cn-银联-权益续期-顶级卡全国网申再次开放",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
-    "category": "travel",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 ¥2",
-    "estimatedValue": 900,
+    "title": "权益续期！顶级卡全国网申再次开放！...",
+    "category": "shopping",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥2",
+    "estimatedValue": 880,
     "currency": "CNY",
     "minSpend": 2,
-    "maxDiscount": 900,
+    "maxDiscount": 880,
     "requiresRegistration": false,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
-    "sourceUrl": "https://post.smzdm.com/p/a036pk28/",
+    "originalText": "权益续期！顶级卡全国网申再次开放！...",
+    "sourceUrl": "https://post.smzdm.com/p/apq29ov2/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-从今年一季度开始-农行先是出了尊然白系列免首年年费的活动-二季度开始-又出了老户黑金网申的活动-马上就三季度了-农行一些给力的活动如约续期了-首张高端附属",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "从今年一季度开始，农行先是出了尊然白系列免首年年费的活动。二季度开始，又出了老户黑金网申的活动。马上就三季度了，农行一些给力的活动如约续期了。首张高端附属...",
+    "category": "shopping",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥2",
+    "estimatedValue": 880,
+    "currency": "CNY",
+    "minSpend": 2,
+    "maxDiscount": 880,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "从今年一季度开始，农行先是出了尊然白系列免首年年费的活动。二季度开始，又出了老户黑金网申的活动。马上就三季度了，农行一些给力的活动如约续期了。首张高端附属卡免年费活动时间：2026年7月1日-2026年9月30日。活动对象：农行信用卡主卡且名下可办理高端系列信用卡附属卡的持卡人。活动内容：活动期间，主卡持卡人为他人办理农行首张高端系列信用卡附属卡且成功核发。在2026年7月-12月期间，通过任意渠道使用该主卡及其名下附属卡累计消费满2万可减免附属卡首年年费。活动总减免6000张附属卡的年费，按照主卡消费达标顺序，额满即止。采用的依旧是先扣后返的方式，激活收取年费，达标后次两个月内返还。尊然白系列、航司系列都在范围里。有需要的朋友可以拿下来用。这里需要说一个活动：如果主卡持卡人手里有广东省分行的农行卡，并且附属卡持卡人是农行新户，可直接免首年年费。激活首刷后还能获得50E卡。新户是指：从未持有农行信用卡或者2026年1月1日前销卡的客户。农行万事达系列：运通尊然白附属卡年费：880元/年，20万积分抵扣。银联、万事达尊然、Visa尊然白精粹版附属卡年费：500元/年，5万积分抵扣。...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 89,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -85,7 +118,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -118,7 +151,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -129,6 +162,39 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-如何用真实年化判断分期值不值得办-高频分期影响信用卡提额吗-信用卡还款方式选错利息差出一辆车-银行从不主动说的真相",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？ 信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
+    "category": "mobile-payment",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥2",
+    "estimatedValue": 880,
+    "currency": "CNY",
+    "minSpend": 2,
+    "maxDiscount": 880,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？ 信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
+    "sourceUrl": "https://post.smzdm.com/p/a70oln5o/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
+    "score": 82,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -7
     }
   },
   {
@@ -231,13 +297,13 @@
     }
   },
   {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-抓紧上车-年费福利倒计时-新渠道礼遇加持-接送机续期了-老户补贴却要没了-兴业这几张白金卡如何",
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-如何用真实年化判断分期值不值得办-高频分期影响信用卡提额吗",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？...",
     "category": "dining",
     "discountType": "cashback",
     "valueText": "迎新优惠，最高约 25,000 点",
@@ -247,11 +313,11 @@
     "maxDiscount": 4,
     "requiresRegistration": false,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？ 信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
     "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
-    "score": 70.6,
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
+    "score": 63.6,
     "scoreBreakdown": {
       "effectiveRate": 30,
       "maxSavings": 1.6,
@@ -260,17 +326,17 @@
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -7
     }
   },
   {
-    "id": "cn-银联-信用卡精选好文-更多好文-抓紧上车-年费福利倒计时-新渠道礼遇加持-接送机续期了-老户补贴却要没了-兴业这几张白金卡如何",
+    "id": "cn-银联-信用卡精选好文-更多好文-如何用真实年化判断分期值不值得办-高频分期影响信用卡提额吗-信用卡还款方式选错利息差出一辆车-银行从不主动说的真相",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "信用卡精选好文 更多好文 抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
+    "title": "信用卡精选好文 更多好文 如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？ 信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
     "category": "dining",
     "discountType": "cashback",
     "valueText": "迎新优惠，最高约 25,000 点",
@@ -280,11 +346,11 @@
     "maxDiscount": 4,
     "requiresRegistration": false,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 抓紧上车！年费福利倒计时，新渠道礼遇加持 接送机续期了，老户补贴却要没了？兴业这几张白金卡如何？...",
+    "originalText": "信用卡精选好文 更多好文 如何用真实年化判断分期值不值得办？高频分期影响信用卡提额吗？ 信用卡还款方式选错利息差出一辆车！银行从不主动说的真相...",
     "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
-    "score": 70.6,
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
+    "score": 63.6,
     "scoreBreakdown": {
       "effectiveRate": 30,
       "maxSavings": 1.6,
@@ -293,7 +359,7 @@
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -7
     }
   },
   {
@@ -411,7 +477,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -441,7 +507,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -471,7 +537,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -501,7 +567,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -531,7 +597,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -561,7 +627,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -591,7 +657,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -621,7 +687,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -651,7 +717,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -681,7 +747,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -711,7 +777,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -741,7 +807,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -771,7 +837,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -801,7 +867,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -833,7 +899,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -844,68 +910,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -4
-    }
-  },
-  {
-    "id": "cn-银联-玩转攻略-篇零-攻略-农行新福利-首张高端附属卡年费减免活动",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "玩转攻略 篇零：攻略｜农行新福利，首张高端附属卡年费减免活动...",
-    "category": "travel",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "玩转攻略 篇零：攻略｜农行新福利，首张高端附属卡年费减免活动...",
-    "sourceUrl": "https://post.smzdm.com/p/a26nllq7/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-落落曾写过附属卡攻略的专题-其中最让人意难平的就是农行尊然白附属卡-虽有部分权益-但是年费需积分兑换-这样而言-对于不少卡友-虽然对附属卡的权益心动-但是",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "落落曾写过附属卡攻略的专题，其中最让人意难平的就是农行尊然白附属卡，虽有部分权益，但是年费需积分兑换。这样而言，对于不少卡友，虽然对附属卡的权益心动，但是...",
-    "category": "travel",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "落落曾写过附属卡攻略的专题，其中最让人意难平的就是农行尊然白附属卡，虽有部分权益，但是年费需积分兑换。这样而言，对于不少卡友，虽然对附属卡的权益心动，但是碍于信用卡年费门槛，只能望而却步。利好消息传来，农行即将上线一个首张高端附属卡年费减免活动，一些迟迟无法下定决心的卡友，可以趁着这波活动，拿下首张农行高端卡的附属卡。01首张高端附属卡，年费减免活动活动时间：2026年7月1日至2026年9月30日活动对象：农行信用卡主卡且名下可办理高端系列信用卡附属卡的持卡人活动内容：活动期间，主卡持卡人为他人办理农行首张高端系列信用卡附属卡且成功核发，在2026年7月至12月期间，通过任意渠道使用该主卡及其名下附属卡累计消费满2万元人民币（或等值外币），减免附属卡首年年费（不含已积分抵扣年费或其他已减免的情形）。活动总计减免6000张附属卡的年费，按照主卡消费达标顺序，额满即止。活动卡片：各类尊然白和银联航司白落落简评：综上细节，虽然设置了消费达标的门槛，但实际上无论是尊然白，还是航司白本身年费积分累积或里程累积也需要消费，门槛并不算高。适合部分有附属卡需求，但一直苦于年费因素未办理附属卡的...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
     }
   },
   {
@@ -928,7 +932,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -961,7 +965,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -994,7 +998,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-25T10:11:13.503Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.584Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1150,7 +1154,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-25T10:11:13.500Z",
+    "lastCheckedAt": "2026-06-25T15:36:33.582Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
