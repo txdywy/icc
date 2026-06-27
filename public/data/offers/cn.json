@@ -279,7 +279,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -309,7 +309,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -339,7 +339,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -369,7 +369,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -399,7 +399,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -429,7 +429,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -459,7 +459,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -489,7 +489,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -519,7 +519,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -549,7 +549,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -579,7 +579,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -609,7 +609,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -639,7 +639,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -762,130 +762,6 @@
     "sourceUrl": "https://post.smzdm.com/p/axkp8pd9/",
     "sourceReliability": "community",
     "lastCheckedAt": "2026-06-26T10:13:38.559Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-平安银行-信用卡精选好文-更多好文-2026信用卡活动哪家香-全网最全对比实测-重磅-农行高端卡三季度放大招-附属卡免年费-黑金开卡礼",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 2026信用卡活动哪家香？全网最全对比实测 重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 2026信用卡活动哪家香？全网最全对比实测 重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-26T20:26:33.012Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-平安银行-2026信用卡活动哪家香-全网最全对比实测-重磅-农行高端卡三季度放大招-附属卡免年费-黑金开卡礼",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "2026信用卡活动哪家香？全网最全对比实测 重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "2026信用卡活动哪家香？全网最全对比实测 重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "sourceUrl": "https://post.smzdm.com/p/a4qv0oel/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-26T20:26:33.012Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-平安银行-重磅-农行高端卡三季度放大招-附属卡免年费-黑金开卡礼",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "重磅！农行高端卡三季度放大招：附属卡免年费+黑金开卡礼！...",
-    "sourceUrl": "https://post.smzdm.com/p/ad74ll8k/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-26T20:26:33.012Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-平安银行-昨天咱们聊了平安两张白金卡年费补贴下月砍半的消息-不少的朋友抓紧最后的尾巴上车-今天咱们把目光转到-老农-身上-从今年一季度开始-农行就挺大方-先是给了尊",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "昨天咱们聊了平安两张白金卡年费补贴下月砍半的消息，不少的朋友抓紧最后的尾巴上车，今天咱们把目光转到“老农”身上。从今年一季度开始，农行就挺大方，先是给了尊...",
-    "category": "shopping",
-    "discountType": "cashback",
-    "valueText": "公开优惠，最高约 ¥2",
-    "currency": "CNY",
-    "minSpend": 2,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "昨天咱们聊了平安两张白金卡年费补贴下月砍半的消息，不少的朋友抓紧最后的尾巴上车，今天咱们把目光转到“老农”身上。从今年一季度开始，农行就挺大方，先是给了尊然白系列免首年年费的活动；二季度呢，又向老户开放了黑金卡的网申通道。现在眼瞅着要到三季度了，好消息是，几个给力的活动都如约续上了。咱们一条条捋。先说第一个：首张高端附属卡免年费活动这个活动的时间段是2026年7月1日到2026年9月30日。活动对象：农行信用卡主卡且名下可办理高端系列信用卡附属卡的持卡人。活动内容：活动期间，主卡持卡人为他人办理农行首张高端系列信用卡附属卡且成功核发。在2026年7月-12月期间，通过任意渠道使用该主卡及其名下附属卡累计消费满2万可减免附属卡首年年费。活动总减免6000张附属卡的年费，按照主卡消费达标顺序，额满即止。采用的依旧是先扣后返的方式，激活收取年费，达标后次两个月内返还。尊然白系列、航空联名系列都算在内，有需要的朋友可以琢磨琢磨。另外还有一个特殊情况：如果你的主卡是广东省分行发的，并且你要办的这张附属卡的持卡人，是农行的新户（也就是从没办过农行信用卡，或者是在2026年1月1日之前就销卡的...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-06-26T20:26:33.012Z",
     "score": 39,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -1074,7 +950,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-06-26T20:26:33.010Z",
+    "lastCheckedAt": "2026-06-27T04:44:00.664Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
