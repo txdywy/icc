@@ -33,6 +33,237 @@
     }
   },
   {
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-时隔一年-建行神活动回归-可无损-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 2400,
+    "currency": "USD",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-时隔一年-建行神活动回归-可无损-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 2400,
+    "currency": "USD",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-信用卡精选好文-更多好文-时隔一年-建行神活动回归-可无损-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥200",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-时隔一年-建行神活动回归-可无损-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥200",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "时隔一年，建行神活动回归，可无损！ 15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://post.smzdm.com/p/ae6rv3dm/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥200",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://post.smzdm.com/p/aww5zwl4/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-中信银行-15-返现已到账-中信2000年费大白金继续-免年费-名单扩充",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥200",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "15%返现已到账，中信2000年费大白金继续“免年费”，名单扩充！ 5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://post.smzdm.com/p/aww5zwl4/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-中信银行-5月份-老胡又申请了一张中信银行2000年费的大白金-领了购物场景的15-返现-7月2号当天已经顺利到账了-实测京东app提交订单-跳转到微信付款也计入达",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 ¥200",
+    "estimatedValue": 2400,
+    "currency": "CNY",
+    "minSpend": 200,
+    "maxDiscount": 2400,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "5月份，老胡又申请了一张中信银行2000年费的大白金，领了购物场景的15%返现，7月2号当天已经顺利到账了。实测京东APP提交订单，跳转到微信付款也计入达标消费中。10元无门槛微信立减金*20张，就是面值太小，领的有点手麻😅领取路径：动卡空间APP - 我的权益 -...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
     "id": "cn-银联-618信用卡使用技巧-话费卡-购物节大幕即将开始-所以闲话少谈-直接开始说一-信用卡新户开卡礼-作为羊肉的忠实爱好者",
     "region": "CN",
     "issuer": "银联",
@@ -52,7 +283,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -85,7 +316,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -96,6 +327,39 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-平安银行-信用卡福利-免费匹配携程钻石-金钻会籍",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "信用卡福利，免费匹配携程钻石、金钻会籍...",
+    "category": "hotel",
+    "discountType": "instant-discount",
+    "valueText": "公开优惠，最高约 ¥500",
+    "estimatedValue": 500,
+    "currency": "CNY",
+    "minSpend": 500,
+    "maxDiscount": 500,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡福利，免费匹配携程钻石、金钻会籍 万事达匹配携程会籍的神活动又回归了，只能用2024年5月9号以后发行的全新万事达卡匹配，且通过携程APP单笔消费满500元并完成出行。世界之极匹配携程金钻可享受4次行政酒廊、6次机场CIP、4次机场贵宾厅等权益，有效期1年，正常要消费12个月内消费约4万才能到金钻。目前门槛最低的世界之极卡是平安银行万事达借记卡，直接去网点就能开，工资代发可以免管理费。世界卡匹配携程钻石可享受2次机场CIP、1次机场贵宾厅等权益，有效期1年，正常要12个月内消费约1.4万才能到钻石。世界卡可选择的就更多了，工行黑白菜、浦发万事达无价世界卡（红沙宣）、农行万事达尊然白等。匹配路径：万事达小程序 - 万事有礼同时，各类酒店会籍、商场会籍匹配也同步续期了，登录小程序都能看到。与此同时，万事达消费大挑战上线新活动，通过大陆发行的指定全新万事达卡，境内累计消费2万可领取100元京东E卡。每户每卡可参与1次，可以耍起来了~往期推荐：我是老胡，持续持续分享玩卡技巧与攻略，欢迎关注",
+    "sourceUrl": "https://post.smzdm.com/p/al37l4x0/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
+    "score": 75,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 10,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -7
     }
   },
   {
@@ -213,77 +477,11 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
       "maxSavings": 6,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-境外刷卡返现总落空-老手不说的三个致命细节",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 境外刷卡返现总落空？老手不说的三个致命细节...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 1,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 境外刷卡返现总落空？老手不说的三个致命细节 农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法 手里攥着农行信用卡，消费了不少钱，但积分一直躺在账户里没动过？很多人不知道的是，农行积分其实是能当钱花的隐形福利——积分可以直接抵扣美团、淘宝、京东等平台的订单金额，1000积分抵1元现金。问题在于，积分怎么攒更快、哪些玩法最划算、2026年有哪些新规则变化？这篇帮你把农行积分的门道捋清楚。1...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
-    "score": 44.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-信用卡精选好文-更多好文-境外刷卡返现总落空-老手不说的三个致命细节-农行积分原来能当钱花-教你2026新规下积分抵现-抵年费最划算玩法",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 境外刷卡返现总落空？老手不说的三个致命细节 农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 1,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 境外刷卡返现总落空？老手不说的三个致命细节 农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法 手里攥着农行信用卡，消费了不少钱，但积分一直躺在账户里没动过？很多人不知道的是，农行积分其实是能当钱花的隐形福利——积分可以直接抵扣美团、淘宝、京东等平台的订单金额，1000积分抵1元现金。问题在于，积分怎么攒更快、哪些玩法最划算、2026年有哪些新规则变化？这篇帮你把农行积分的门道捋清楚。1...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
-    "score": 44.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
       "audienceBreadth": 14,
       "convenience": 10,
       "urgency": 4,
@@ -309,7 +507,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -339,7 +537,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -369,7 +567,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -399,7 +597,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -429,7 +627,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -459,7 +657,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -489,7 +687,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -519,7 +717,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -549,7 +747,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -579,7 +777,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -609,7 +807,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -639,7 +837,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -669,7 +867,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -701,7 +899,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -712,70 +910,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -4
-    }
-  },
-  {
-    "id": "cn-银联-境外刷卡返现总落空-老手不说的三个致命细节-农行积分原来能当钱花-教你2026新规下积分抵现-抵年费最划算玩法",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "境外刷卡返现总落空？老手不说的三个致命细节 农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法...",
-    "category": "mobile-payment",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠，最高约 1,000 点",
-    "estimatedValue": 1,
-    "currency": "USD",
-    "maxDiscount": 1,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "境外刷卡返现总落空？老手不说的三个致命细节 农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法 手里攥着农行信用卡，消费了不少钱，但积分一直躺在账户里没动过？很多人不知道的是，农行积分其实是能当钱花的隐形福利——积分可以直接抵扣美团、淘宝、京东等平台的订单金额，1000积分抵1元现金。问题在于，积分怎么攒更快、哪些玩法最划算、2026年有哪些新规则变化？这篇帮你把农行积分的门道捋清楚。1...",
-    "sourceUrl": "https://post.smzdm.com/p/ak84kxnk/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
-    "score": 39.4,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0.4,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-农行积分原来能当钱花-教你2026新规下积分抵现-抵年费最划算玩法",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法...",
-    "category": "mobile-payment",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠，最高约 1,000 点",
-    "estimatedValue": 1,
-    "currency": "USD",
-    "maxDiscount": 1,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "农行积分原来能当钱花！教你2026新规下积分抵现、抵年费最划算玩法 手里攥着农行信用卡，消费了不少钱，但积分一直躺在账户里没动过？很多人不知道的是，农行积分其实是能当钱花的隐形福利——积分可以直接抵扣美团、淘宝、京东等平台的订单金额，1000积分抵1元现金。问题在于，积分怎么攒更快、哪些玩法最划算、2026年有哪些新规则变化？这篇帮你把农行积分的门道捋清楚。1...",
-    "sourceUrl": "https://post.smzdm.com/p/a4qrp26l/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
-    "score": 39.4,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0.4,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
     }
   },
   {
@@ -798,7 +932,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -831,7 +965,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -864,7 +998,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T14:24:59.004Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.692Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -875,38 +1009,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -7
-    }
-  },
-  {
-    "id": "cn-中信银行-银行龙腾点数悄悄缩水-2026年持卡人该继续用还是单买官方卡-内行人算了一笔账",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "银行龙腾点数悄悄缩水！2026年持卡人该继续用还是单买官方卡？内行人算了一笔账...",
-    "category": "dining",
-    "discountType": "instant-discount",
-    "valueText": "公开优惠",
-    "estimatedValue": 9,
-    "currency": "CNY",
-    "maxDiscount": 9,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "银行龙腾点数悄悄缩水！2026年持卡人该继续用还是单买官方卡？内行人算了一笔账 银行信用卡附赠的龙腾出行点数正在变少、门槛在变高——这是2026年持卡人最直接的感受。花了年费拿到的贵宾厅权益，到底是继续凑合薅羊毛，还是直接花钱买官方龙腾卡更划算？这个选择不复杂，关键在于搞清楚两种渠道的本质差异。弄明白“同名不同权”，是做出判断的第一步。银行版和官方版，差的不只是名字龙腾出行是一家独立的出行权益服务商，银行信用卡只是它的分销渠道之一。银行赠送的龙腾点数≠官方龙腾卡，两者在使用规则上存在显著差异。素材和都提到，龙腾分为“满血版”和“残血版”。满血版的核心标志是同时支持贵宾厅休息和餐食体验厅点餐。残血版则完全剥离餐食功能，仅提供休息空间和简单茶点。2026年部分银行开始将原本的满血龙腾改为残血版本，最典型的案例是中国银行长城财富卡：调整前每年12点龙腾礼遇、支持餐食体验厅；调整后升级为无限次机场贵宾厅，但不再支持餐食服务，变成了“残血龙腾”。次数增加了，餐食却没了——这是银行权益调整的典型套路。1...",
-    "sourceUrl": "https://post.smzdm.com/p/am97x2mz/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-07-05T09:34:15.620Z",
-    "score": 35.6,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0.6,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -4
     }
   },
   {
@@ -926,7 +1028,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-05T14:24:59.002Z",
+    "lastCheckedAt": "2026-07-05T20:05:47.690Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
