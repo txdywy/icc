@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox+Mox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,7 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -228,7 +228,7 @@
     "originalText": "¹ Promotion period from 1 July 2026 to 30 September 2026.",
     "sourceUrl": "https://mox.com/promotions/MOXINVEST-NTB/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +258,7 @@
     "originalText": "“MOXINVEST” Welcome Offer Promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202607_MoxInvestNTBPromotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +288,7 @@
     "originalText": "Mox Invest Triple $0 Rewards Welcome Offer Promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202607_MoxInvestTriple0PromotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +318,7 @@
     "originalText": "Welcome OfferUse code “2000MOX” to open an account and earn up to HKD2,000 cash reward plus 0-requirement access to 2% Unlimited CashBackFrom now until 31 Aug 2026, new customers who use invitation code “2000MOX” to open a Mox account and apply for a Mox Credit Card can earn up to HKD2,000 in cash rewards by meeting spending requirements at any merchant in Hong Kong. For a limited time, unlock 2% Unlimited CashBack or Unlimited Asia Miles with no balance requirement, and start earning on every daily spend, everywhere!“2000MOX” Invitation Code Promotion Terms and Conditions apply. To borrow or not to borrow? Borrow only if you can repay!Learn more",
     "sourceUrl": "https://mox.com/promotions/2000MOX/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +348,7 @@
     "originalText": "Welcome OfferTravelling on your mind 24/7?✈️ Open Mox Account with ‘MOXTRAVEL’, spend and save to earn up to 28,000 miles!From now until 31 August 2026, new customers who enter invitation code \"MOXTRAVEL\" to open a Mox account and apply for a Mox Credit Card can earn up to 28,000 miles through spending and saving — enough for a round-trip flight to Asia!“MOXTRAVEL” Invitation Code Promotion Terms and Conditions apply. To borrow or not to borrow? Borrow only if you can repay!Learn more",
     "sourceUrl": "https://mox.com/promotions/MOXTRAVEL/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -378,7 +378,7 @@
     "originalText": "Mox CreditWelcome OfferWin a race entry for Tokyo Marathon 2027 🏃🏻🇯🇵 OR win round-trip flights to Tokyo✈️ Want to experience the electrifying atmosphere of the Tokyo Marathon 2027 firsthand? From now until 30 September 2026, simply register for the promotion, and turn your everyday spending into a chance to win a Tokyo Marathon 2027 running bib, a round-trip flight, and more exciting prizes!Learn more",
     "sourceUrl": "https://mox.com/promotions/tokyo-marathon-2027-lucky-draw/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -408,7 +408,7 @@
     "originalText": "Welcome OfferInvestJoin Mox & Invest with invitation code \"MOXINVEST\" — get FREE SpaceX/NVIDIA/Google stocks worth approximately USD200 & more rewards",
     "sourceUrl": "https://mox.com/promotions/MOXINVEST-NTB/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-18T19:58:12.796Z",
+    "lastCheckedAt": "2026-07-19T04:16:32.808Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
