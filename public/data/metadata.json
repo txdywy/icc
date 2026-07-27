@@ -1,7 +1,7 @@
 {
-  "lastUpdatedAt": "2026-07-27T15:36:23.635Z",
+  "lastUpdatedAt": "2026-07-27T20:13:16.369Z",
   "totalCards": 4,
-  "totalOffers": 54,
+  "totalOffers": 55,
   "sources": [
     {
       "id": "cn-cmbc",
@@ -9,7 +9,7 @@
       "name": "民生信用卡官网活动公告",
       "url": "https://creditcard.cmbc.com.cn/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 1
     },
     {
@@ -18,7 +18,7 @@
       "name": "平安银行信用卡活动页面",
       "url": "https://creditcard.pingan.com/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 15
     },
     {
@@ -27,7 +27,7 @@
       "name": "银联优惠活动",
       "url": "https://youhui.95516.com/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -36,7 +36,7 @@
       "name": "中信银行信用卡活动",
       "url": "https://creditcard.ecitic.com/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -45,7 +45,7 @@
       "name": "招商银行信用卡活动",
       "url": "https://cc.cmbchina.com/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -54,7 +54,7 @@
       "name": "卡宝宝信用卡中心",
       "url": "https://www.cardbaobao.com/card/",
       "status": "failed",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "error": "fetch failed",
       "itemCount": 0
     },
@@ -64,7 +64,7 @@
       "name": "什么值得买信用卡频道",
       "url": "https://www.smzdm.com/zy/category/av6ko9y/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 13
     },
     {
@@ -73,7 +73,7 @@
       "name": "Chase Sapphire Preferred 官方页",
       "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 2
     },
     {
@@ -82,7 +82,7 @@
       "name": "Capital One Venture X 官方页",
       "url": "https://www.capitalone.com/credit-cards/venture-x/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 2
     },
     {
@@ -91,7 +91,7 @@
       "name": "American Express 信用卡优惠页",
       "url": "https://www.americanexpress.com/us/credit-cards/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -100,7 +100,7 @@
       "name": "Citi 美国信用卡页",
       "url": "https://www.citi.com/credit-cards/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -109,7 +109,7 @@
       "name": "美国信用卡指南信用卡资料页",
       "url": "https://www.uscreditcardguide.com/credit-cards-en/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -118,8 +118,8 @@
       "name": "Doctor of Credit 当前开卡奖励汇总",
       "url": "https://www.doctorofcredit.com/best-current-credit-card-sign-bonuses/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
-      "itemCount": 0
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
+      "itemCount": 1
     },
     {
       "id": "hk-hangseng",
@@ -127,7 +127,7 @@
       "name": "恒生信用卡全年优惠页",
       "url": "https://www.hangseng.com/en-hk/personal/cards/offers/",
       "status": "failed",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "error": "HTTP 404 Not Found",
       "itemCount": 0
     },
@@ -137,7 +137,7 @@
       "name": "Citi HK 信用卡迎新优惠页",
       "url": "https://www.citibank.com.hk/english/credit-cards/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 2
     },
     {
@@ -146,7 +146,7 @@
       "name": "Mox 信用卡优惠页",
       "url": "https://mox.com/promotions/",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 20
     },
     {
@@ -155,7 +155,7 @@
       "name": "OCBC 香港信用卡优惠页",
       "url": "https://www.ocbc.com.hk/personal-banking/cards/promotions.page",
       "status": "failed",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "error": "HTTP 404 Not Found",
       "itemCount": 0
     },
@@ -165,7 +165,7 @@
       "name": "MoneyHero HK 信用卡比较页",
       "url": "https://www.moneyhero.com.hk/en/credit-card/all",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     },
     {
@@ -174,7 +174,7 @@
       "name": "HongKongCard 信用卡比较页",
       "url": "https://www.hongkongcard.com/cards",
       "status": "success",
-      "lastCheckedAt": "2026-07-27T15:36:23.635Z",
+      "lastCheckedAt": "2026-07-27T20:13:16.369Z",
       "itemCount": 0
     }
   ]
