@@ -20,7 +20,7 @@
     "originalText": "Skip to main content Skip Side Menu Side menu ends Side menu ends Opens Marketplace homepage in the same window Opens Marketplace homepage in the same window Sign inOpens Chase account sign in within a new window close navigation Home Opens Chase.com in a new window Sign In Opens Chase.com sign-in in a new window Free Credit Score Opens in a new window EXPLORE PRODUCTS Credit Cards Credit Cards Home Opens Chase Credit Cards page in the same window Check for Offers Opens Check for Offers page in ",
     "sourceUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-27T10:31:57.203Z",
+    "lastCheckedAt": "2026-07-27T15:36:23.662Z",
     "score": 93,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -51,10 +51,10 @@
     "requiresRegistration": false,
     "usageLimit": "新持卡人活动条款适用",
     "termsSummary": "资格和里程价值以 Capital One 公开条款为准。",
-    "originalText": "prebootInitFn(); Skip to main content Sign InCredit CardsChecking & SavingsAutoBusinessCommercialBenefits & ToolsSearchHelp CenterLocationsSign InCredit CardsCompare All CardsBuilding CreditCash BackDining & EntertainmentTravel RewardsLow Intro APRStudent RewardsCredit Cards Card Types Compare All CardsBuilding CreditCash BackDining & EntertainmentTravel RewardsLow Intro APRStudent Rewards#c1-background-image-7245466b-caff + * { background-image: url('https://ecm.capitalone.com/WCM/card/backgrou",
+    "originalText": "prebootInitFn(); Skip to main content Sign InCredit CardsChecking & SavingsAutoBusinessCommercialBenefits & ToolsSearchHelp CenterLocationsSign InCredit CardsCompare All CardsBuilding CreditCash BackDining & EntertainmentTravel RewardsLow Intro APRStudent RewardsCredit Cards Card Types Compare All CardsBuilding CreditCash BackDining & EntertainmentTravel RewardsLow Intro APRStudent Rewards#c1-background-image-3cb0993a-e109 + * { background-image: url('https://ecm.capitalone.com/WCM/card/backgrou",
     "sourceUrl": "https://www.capitalone.com/credit-cards/venture-x/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-07-27T10:31:57.205Z",
+    "lastCheckedAt": "2026-07-27T15:36:23.664Z",
     "score": 85.5,
     "scoreBreakdown": {
       "effectiveRate": 22.5,
