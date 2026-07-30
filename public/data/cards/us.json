@@ -44,7 +44,7 @@
     "sourceUrls": [
       "https://www.capitalone.com/credit-cards/venture-x/"
     ],
-    "lastCheckedAt": "2026-07-30T15:01:30.820Z",
+    "lastCheckedAt": "2026-07-30T20:10:44.097Z",
     "score": 94,
     "scoreBreakdown": {
       "welcomeOffer": 25,
@@ -69,8 +69,8 @@
       "currency": "USD"
     },
     "welcomeOffer": {
-      "headline": "Chase 公开开卡奖励：估算价值约 US$1,250，需满足约 US$5,000 消费门槛",
-      "estimatedValue": 1250,
+      "headline": "Chase 公开开卡奖励：估算价值约 US$938，需满足约 US$5,000 消费门槛",
+      "estimatedValue": 938,
       "currency": "USD",
       "spendRequirement": 5000,
       "spendPeriodDays": 90
@@ -93,14 +93,14 @@
       "酒店抵扣以当前条款为准"
     ],
     "eligibility": "以 Chase 审批结果和公开活动条款为准",
-    "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_preferred_card.png",
+    "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire-preferredcard2026.png",
     "imageAlt": "Chase Sapphire Preferred(Registered Trademark) credit card",
     "imageSourceUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
     "applyUrl": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
     "sourceUrls": [
       "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
     ],
-    "lastCheckedAt": "2026-07-30T15:01:30.820Z",
+    "lastCheckedAt": "2026-07-30T20:10:44.097Z",
     "score": 86,
     "scoreBreakdown": {
       "welcomeOffer": 25,
