@@ -1,68 +1,167 @@
 [
   {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-浦发6-6元-建行72元加油立减-农行20元-平安返现300元-工行20元-防盗刷与刷免白金卡",
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-塔什干刷卡取现被多扣了-银联vs-visa成本实测-这笔账要算清楚",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 |...",
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚...",
     "category": "dining",
     "discountType": "cashback",
     "valueText": "迎新优惠，最高约 25,000 点",
     "estimatedValue": 300,
     "currency": "USD",
-    "minSpend": 120,
+    "minSpend": 100,
     "maxDiscount": 300,
-    "requiresRegistration": false,
+    "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报 .tgaigc-wrap{padding:0 4%;padding-bottom:24px;font-family:PingFang SC,Heiti SC,San Francisco,Helvetica,Arial,sans-serif;font-size:15px;line-height:27px;color:#333333;background-color:#FFFFFF;word-wrap:break-word;overflow-wrap:break-word;display:flow-root;} .tgaigc-wrap .brief-card{margin-top:16px;margin-bottom:28px;padding:15px 16px;background-color:#F0F7FF;border-radius:10px;} .tgaigc-wrap .brief-card...",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚 信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
     "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
-    "score": 89,
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 84,
     "scoreBreakdown": {
       "effectiveRate": 30,
       "maxSavings": 20,
       "audienceBreadth": 14,
-      "convenience": 10,
+      "convenience": 7,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -2
     }
   },
   {
-    "id": "cn-银联-信用卡精选好文-更多好文-浦发6-6元-建行72元加油立减-农行20元-平安返现300元-工行20元-防盗刷与刷免白金卡-玩转银行卡8-8日报",
+    "id": "cn-银联-信用卡精选好文-更多好文-塔什干刷卡取现被多扣了-银联vs-visa成本实测-这笔账要算清楚",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报...",
+    "title": "信用卡精选好文 更多好文 塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚...",
     "category": "dining",
     "discountType": "cashback",
     "valueText": "迎新优惠，最高约 25,000 点",
     "estimatedValue": 300,
     "currency": "USD",
-    "minSpend": 120,
+    "minSpend": 100,
     "maxDiscount": 300,
-    "requiresRegistration": false,
+    "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报 .tgaigc-wrap{padding:0 4%;padding-bottom:24px;font-family:PingFang SC,Heiti SC,San Francisco,Helvetica,Arial,sans-serif;font-size:15px;line-height:27px;color:#333333;background-color:#FFFFFF;word-wrap:break-word;overflow-wrap:break-word;display:flow-root;} .tgaigc-wrap .brief-card{margin-top:16px;margin-bottom:28px;padding:15px 16px;background-color:#F0F7FF;border-radius:10px;} .tgaigc-wrap .brief-card...",
+    "originalText": "信用卡精选好文 更多好文 塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚 信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
     "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
-    "score": 89,
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 84,
     "scoreBreakdown": {
       "effectiveRate": 30,
       "maxSavings": 20,
       "audienceBreadth": 14,
-      "convenience": 10,
+      "convenience": 7,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-塔什干刷卡取现被多扣了-银联vs-visa成本实测-这笔账要算清楚-信用卡权益缩水成常态-老玩家总结3步自检法-看完就知道该留还是该销",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚 信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠，最高约 ¥100",
+    "estimatedValue": 300,
+    "currency": "CNY",
+    "minSpend": 100,
+    "maxDiscount": 300,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "塔什干刷卡取现被多扣了？银联vs Visa成本实测，这笔账要算清楚 信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "sourceUrl": "https://post.smzdm.com/p/ad7dd34d/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-信用卡权益缩水成常态-老玩家总结3步自检法-看完就知道该留还是该销",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠，最高约 ¥100",
+    "estimatedValue": 300,
+    "currency": "CNY",
+    "minSpend": 100,
+    "maxDiscount": 300,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "sourceUrl": "https://post.smzdm.com/p/a26z5gvn/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-浦发6-6元-建行72元加油立减-农行20元-平安返现300元-工行20元",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！...",
+    "category": "transport",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠，最高约 ¥100",
+    "estimatedValue": 300,
+    "currency": "CNY",
+    "minSpend": 100,
+    "maxDiscount": 300,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！...",
+    "sourceUrl": "https://post.smzdm.com/p/a70k8lg9/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
     }
   },
   {
@@ -85,7 +184,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -118,7 +217,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -228,70 +327,6 @@
     }
   },
   {
-    "id": "cn-平安银行-信用卡精选好文-更多好文-浦发6-6元-建行72元加油立减-农行20元-平安返现300元-工行20元-防盗刷与刷免白金卡-玩转银行卡8-8日报",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠",
-    "estimatedValue": 300,
-    "currency": "CNY",
-    "maxDiscount": 300,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报 .tgaigc-wrap{padding:0 4%;padding-bottom:24px;font-family:PingFang SC,Heiti SC,San Francisco,Helvetica,Arial,sans-serif;font-size:15px;line-height:27px;color:#333333;background-color:#FFFFFF;word-wrap:break-word;overflow-wrap:break-word;display:flow-root;} .tgaigc-wrap .brief-card{margin-top:16px;margin-bottom:28px;padding:15px 16px;background-color:#F0F7FF;border-radius:10px;} .tgaigc-wrap .brief-card...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
-    "score": 59,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-平安银行-浦发6-6元-建行72元加油立减-农行20元-平安返现300元-工行20元-防盗刷与刷免白金卡-玩转银行卡8-8日报",
-    "region": "CN",
-    "issuer": "平安银行",
-    "cardNames": [
-      "平安银行信用卡"
-    ],
-    "title": "浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠",
-    "estimatedValue": 300,
-    "currency": "CNY",
-    "maxDiscount": 300,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "浦发6.6元+建行72元加油立减+农行20元+平安返现300元+工行20元！ 防盗刷与刷免白金卡 | 玩转银行卡8.8日报 .tgaigc-wrap{padding:0 4%;padding-bottom:24px;font-family:PingFang SC,Heiti SC,San Francisco,Helvetica,Arial,sans-serif;font-size:15px;line-height:27px;color:#333333;background-color:#FFFFFF;word-wrap:break-word;overflow-wrap:break-word;display:flow-root;} .tgaigc-wrap .brief-card{margin-top:16px;margin-bottom:28px;padding:15px 16px;background-color:#F0F7FF;border-radius:10px;} .tgaigc-wrap .brief-card...",
-    "sourceUrl": "https://post.smzdm.com/p/a70k8lg9/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
-    "score": 59,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
     "id": "cn-招商银行-信用卡精选好文-更多好文-2026年大山白值不值-出行3-5次的人算完这笔账-心里有数了-邮储世界卡限时加享-首年350元起-和招行建行对比哪张真香",
     "region": "CN",
     "issuer": "招商银行",
@@ -342,7 +377,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -372,7 +407,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -402,7 +437,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -432,7 +467,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -462,7 +497,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -492,7 +527,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -522,7 +557,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -552,7 +587,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -582,7 +617,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -612,7 +647,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -642,7 +677,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -672,7 +707,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -702,7 +737,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -732,7 +767,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -764,7 +799,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -775,6 +810,70 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -4
+    }
+  },
+  {
+    "id": "cn-平安银行-信用卡权益缩水成常态-老玩家总结3步自检法-看完就知道该留还是该销",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "优惠码活动",
+    "estimatedValue": 29,
+    "currency": "CNY",
+    "maxDiscount": 29,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡权益缩水成常态！老玩家总结3步自检法，看完就知道该留还是该销...",
+    "sourceUrl": "https://post.smzdm.com/p/a26z5gvn/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 40.9,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 1.9,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-平安银行-持卡人最头疼的事-大概就是-办卡时满心欢喜-用着用着权益就没了-最近一年多-信用卡权益缩水几乎成了行业常态-机场贵宾厅从12次砍到4次-积分兑换比例从1",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "持卡人最头疼的事，大概就是\"办卡时满心欢喜，用着用着权益就没了\"。最近一年多，信用卡权益缩水几乎成了行业常态：机场贵宾厅从12次砍到4次，积分兑换比例从1...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "优惠码活动",
+    "estimatedValue": 29,
+    "currency": "CNY",
+    "maxDiscount": 29,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "持卡人最头疼的事，大概就是\"办卡时满心欢喜，用着用着权益就没了\"。最近一年多，信用卡权益缩水几乎成了行业常态：机场贵宾厅从12次砍到4次，积分兑换比例从15:1调到25:1，加油折扣从8折变成9.5折。平安瑞幸联名卡三个月内改了三次规则，29元的免费咖啡券直接缩水成17元抵扣券，有效期还从长期有效砍到7天。中信、华夏、兴业等多家银行的热门卡片也陆续传出权益调整的消息。权益缩水不是偶发事件，而是行业趋势。搞清楚缩水背后的逻辑，才能在选卡时少踩坑。12权益缩水背后的三层原因信用卡权益缩水，不是银行\"变坏了\"，而是行业整体盈利模式出了问题。信用卡业务的传统收入主要靠商户回佣和利息收入，但这两块都在萎缩——移动支付的冲击让商户回佣大幅下降，而经济承压导致逾期率上升，利息收入的风险也在放大。2025年，多家头部银行的信用卡不良率已经突破3%警戒线，部分股份行甚至达到5%以上。银行不得不在用户权益和运营成本之间重新找平衡。这解释了为什么权益调整集中在机场贵宾室、接送机、高端体检这些\"高成本权益\"上——这些权益的运营成本确实高，且正在被越来越多人高频使用，对银行来说自然成了优先压缩的对象。3联...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 40.9,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 1.9,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
     }
   },
   {
@@ -827,7 +926,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -860,7 +959,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -893,7 +992,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-08-08T02:49:12.920Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -904,6 +1003,39 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -7
+    }
+  },
+  {
+    "id": "cn-银联-1-浦发6-6元浦发银行信用卡每周六早上10点在上海交通卡app充值满100立减6-6元-这个余额可以提现-但是现在超过100提现要5-的手续费-也可以直",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "1、浦发6.6元浦发银行信用卡每周六早上10点在上海交通卡APP充值满100立减6.6元，这个余额可以提现，但是现在超过100提现要5%的手续费，也可以直...",
+    "category": "transport",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠，最高约 ¥100",
+    "estimatedValue": 6.6,
+    "currency": "CNY",
+    "minSpend": 100,
+    "maxDiscount": 6.6,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "1、浦发6.6元浦发银行信用卡每周六早上10点在上海交通卡APP充值满100立减6.6元，这个余额可以提现，但是现在超过100提现要5%的手续费，也可以直接用公交地铁，全国大部分城市都支持使用，月限参与1次。路径：上海交通卡APP首页-手机交通卡充值满100元，选择微信支付2、建行72元加油立减中国建设银行信用卡领加油立减券！不分地区全国都可以参加，活动期间限各一次，不能叠加抵扣。200-16：每天早上9:30更新名额，600-56：每周六早上上9:30更新名额需要抢！很容易，但是手慢无。领了以后在建行生活APP优惠券里面去使用，满对应金额后会显示立减。路径：建行生活APP-热门活动-下拉找到领72元中石化立减金点进去，记得准点去3、农行20元刷卡金微信支付单笔满5000元返20元（8月）！领取路径：农行app-信用卡-优惠-下拉（微信支付单笔满5000元返20元（8月））这次不限制银联渠道消费了（不清楚还会不会上线银联渠道的😄）微信消费满5000立返20，速度领取参与。4、平安返现300元详情：平安信用卡，消费满一定金额返现最高300元。注意：每个人的消费金额返现额度要求不同；...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-08-08T07:39:40.282Z",
+    "score": 35.3,
+    "scoreBreakdown": {
+      "effectiveRate": 7.9,
+      "maxSavings": 0.4,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -9
     }
   },
   {
@@ -923,7 +1055,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-08T02:49:12.917Z",
+    "lastCheckedAt": "2026-08-08T07:39:40.279Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
