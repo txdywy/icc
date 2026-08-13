@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.455Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.759Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox+Mox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,7 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -228,7 +228,7 @@
     "originalText": "Mox CreditMox × Emirates exclusive “Best-in-Town” flight offer is here✈️🌍 The world is always changing, and Mox is here to help you go further and explore it all🔭🌎 Mox × Emirates proudly brings you our exclusive “best-in-town” flight offer*. From now until 30 November 2026, ✨Mox customers can enjoy exclusive instant discounts across Business, Premium Economy, and Economy Class cabins – “best-in-town\" guaranteed!✨Terms and Conditions applyLearn more",
     "sourceUrl": "https://mox.com/promotions/mox-emirates/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +258,7 @@
     "originalText": "Promotion period from 6 August 2026 to 31 December 2026.",
     "sourceUrl": "https://mox.com/promotions/travel-insurance-asia-miles-offer/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +288,7 @@
     "originalText": "Travel Pick & Go 2-for-1 Asia Miles reward August 2026 to December 2026 promotion",
     "sourceUrl": "https://mox.com/static/202608_TravelInsuranceAsiaMiles2to1Promotion.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +318,7 @@
     "originalText": "Welcome OfferUse code “2000MOX” to open an account and earn up to HKD2,000 cash reward plus 0-requirement access to 2% Unlimited CashBackFrom now until 31 Aug 2026, new customers who use invitation code “2000MOX” to open a Mox account and apply for a Mox Credit Card can earn up to HKD2,000 in cash rewards by meeting spending requirements at any merchant in Hong Kong. For a limited time, unlock 2% Unlimited CashBack or Unlimited Asia Miles with no balance requirement, and start earning on every daily spend, everywhere!“2000MOX” Invitation Code Promotion Terms and Conditions apply. To borrow or not to borrow? Borrow only if you can repay!Learn more",
     "sourceUrl": "https://mox.com/promotions/2000MOX/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +348,7 @@
     "originalText": "Welcome OfferTravelling on your mind 24/7?✈️ Open Mox Account with ‘MOXTRAVEL’, spend and save to earn up to 28,000 miles!From now until 31 August 2026, new customers who enter invitation code \"MOXTRAVEL\" to open a Mox account and apply for a Mox Credit Card can earn up to 28,000 miles through spending and saving — enough for a round-trip flight to Asia!“MOXTRAVEL” Invitation Code Promotion Terms and Conditions apply. To borrow or not to borrow? Borrow only if you can repay!Learn more",
     "sourceUrl": "https://mox.com/promotions/MOXTRAVEL/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -378,7 +378,7 @@
     "originalText": "Mox CreditWin a race entry for Tokyo Marathon 2027 🏃🏻🇯🇵 OR win round-trip flights to Tokyo✈️ Want to experience the electrifying atmosphere of the Tokyo Marathon 2027 firsthand? From now until 30 September 2026, simply register for the promotion, and turn your everyday spending into a chance to win a Tokyo Marathon 2027 running bib, a round-trip flight, and more exciting prizes!Learn more",
     "sourceUrl": "https://mox.com/promotions/tokyo-marathon-2027-lucky-draw/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -408,7 +408,7 @@
     "originalText": "Mox CreditWelcome OfferGet first-hand access to the latest Samsung Galaxy flagship phone with up to HKD100 instant discount and 0% installment. Open account and spend to earn another HKD2,700 rewards 🤑📲 The wait is over! Just watched the keynote and are you excited about the new Samsung Galaxy launch, wondering where to get the best deal? ☄️ As a Mox customer, skip the math 🌟 Simply register for the promotion, then buy the “Foldable Phone of the Year” with your Mox Credit Card at The Club / csl / 1O1O / HKT shops to enjoy up to HKD100 instant discount + 24-month 0% iinstallment payment plan. New customers can even enjoy up to HKD2,700 in welcome rewards.Terms and Conditions applyLearn more",
     "sourceUrl": "https://mox.com/promotions/mox-samsung-HKT/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-08-13T14:14:40.456Z",
+    "lastCheckedAt": "2026-08-13T19:50:51.760Z",
     "score": 31,
     "scoreBreakdown": {
       "effectiveRate": 0,
