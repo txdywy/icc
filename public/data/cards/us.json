@@ -12,8 +12,8 @@
       "currency": "USD"
     },
     "welcomeOffer": {
-      "headline": "Capital One 公开开卡奖励：估算价值约 US$750，需满足约 US$4,000 消费门槛",
-      "estimatedValue": 750,
+      "headline": "Capital One 公开开卡奖励：估算价值约 US$1,000，需满足约 US$4,000 消费门槛",
+      "estimatedValue": 1000,
       "currency": "USD",
       "spendRequirement": 4000,
       "spendPeriodDays": 90
@@ -44,7 +44,7 @@
     "sourceUrls": [
       "https://www.capitalone.com/credit-cards/venture-x/"
     ],
-    "lastCheckedAt": "2026-08-17T13:31:36.776Z",
+    "lastCheckedAt": "2026-08-17T19:19:39.567Z",
     "score": 94,
     "scoreBreakdown": {
       "welcomeOffer": 25,
@@ -100,7 +100,7 @@
     "sourceUrls": [
       "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
     ],
-    "lastCheckedAt": "2026-08-17T13:31:36.776Z",
+    "lastCheckedAt": "2026-08-17T19:19:39.567Z",
     "score": 86,
     "scoreBreakdown": {
       "welcomeOffer": 25,
