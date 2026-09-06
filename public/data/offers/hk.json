@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.460Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.465Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox+Mox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,7 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -228,7 +228,7 @@
     "originalText": "Promotion period from 10 August 2026 to 31 October 2026.",
     "sourceUrl": "https://mox.com/promotions/invest-fund-0-fee-aug/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +258,7 @@
     "originalText": "Funds 0% Subscription Fee promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202608_MoxInvestFunds0FeePromotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +288,7 @@
     "originalText": "Welcome OfferTeam up with your favourite content creator. Win bigger together.",
     "sourceUrl": "https://mox.com/promotions/explore/mgm-team-up-reward/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +318,7 @@
     "originalText": "Mox Team Up referral reward promotion terms and conditions",
     "sourceUrl": "https://mox.com/static/Mox_KOL_TeamUp_referral_programme_TnCs.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +348,7 @@
     "originalText": "Welcome OfferSave and earn with Mox! Fund in and earn straight away!",
     "sourceUrl": "https://mox.com/promotions/moxboost/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -378,7 +378,7 @@
     "originalText": "“MOXBOOST” Invitation Code Promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/MOXBOOST_Promotion_TnCs.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -408,7 +408,7 @@
     "originalText": "Join Mox using your favourite content creator’s Referral Code and unlock bigger rewards! The Mox Referral Programme just got even more exciting – 7 content creators, 7 alliances to unlock bonus welcome reward! From now until 10 September 2026, open a Mox Account using a designated content creator's Referral Code and form a rewards alliance. Once your alliance hits the account-opening target, everyone will receive the corresponding Team Top-Up Reward of up to HKD1,000 cash¹, on top of the rewards from the Mox Referral Programme² – earn cash rewards up to HKD3,000 in total¹‧².",
     "sourceUrl": "https://mox.com/promotions/explore/mgm-team-up-reward/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-06T15:53:18.461Z",
+    "lastCheckedAt": "2026-09-06T20:56:27.466Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
