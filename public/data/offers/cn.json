@@ -1,5 +1,104 @@
 [
   {
+    "id": "cn-中信银行-信用卡精选好文-更多好文-刷免-白金卡-送贵宾厅-9月权益地震-汇丰关厅-即梦砍分-双11前把会员的留换账算清",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "优惠码活动，最高约 ¥12",
+    "estimatedValue": 8000,
+    "currency": "USD",
+    "minSpend": 12,
+    "maxDiscount": 8000,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-刷免-白金卡-送贵宾厅-9月权益地震-汇丰关厅-即梦砍分-双11前把会员的留换账算清",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "优惠码活动，最高约 ¥12",
+    "estimatedValue": 8000,
+    "currency": "USD",
+    "minSpend": 12,
+    "maxDiscount": 8000,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "sourceUrl": "https://post.smzdm.com/p/ak8k6k98/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-9月权益地震-汇丰关厅-即梦砍分-双11前把会员的留换账算清",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "category": "dining",
+    "discountType": "points",
+    "valueText": "优惠码活动，最高约 ¥12",
+    "estimatedValue": 8000,
+    "currency": "USD",
+    "minSpend": 12,
+    "maxDiscount": 8000,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "sourceUrl": "https://post.smzdm.com/p/apqvlv8w/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 89,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
     "id": "cn-银联-618信用卡使用技巧-话费卡-购物节大幕即将开始-所以闲话少谈-直接开始说一-信用卡新户开卡礼-作为羊肉的忠实爱好者",
     "region": "CN",
     "issuer": "银联",
@@ -19,7 +118,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -52,7 +151,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -99,6 +198,138 @@
     }
   },
   {
+    "id": "cn-中信银行-去年还在-三选一-今年悄悄放回-每权益任选-中信9分享兑的达美乐券只剩45份-8月权益刚在9月5日过期-新出的-持卡满12个月-最多人踩",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "去年还在“三选一”，今年悄悄放回“每权益任选”：中信9分享兑的达美乐券只剩45份，8月权益刚在9月5日过期，新出的“持卡满12个月”最多人踩...",
+    "category": "dining",
+    "discountType": "coupon",
+    "valueText": "优惠码活动，最高约 ¥12",
+    "estimatedValue": 40,
+    "currency": "CNY",
+    "minSpend": 12,
+    "maxDiscount": 40,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "去年还在“三选一”，今年悄悄放回“每权益任选”：中信9分享兑的达美乐券只剩45份，8月权益刚在9月5日过期，新出的“持卡满12个月”最多人踩...",
+    "sourceUrl": "https://post.smzdm.com/p/am98ep3v/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 71.7,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 2.7,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-中信银行-先交代这篇写给谁-手里有一张中信信用卡-平时吃饭打车看电影都刷卡-每月账单一千到一万之间的持卡人-不是写给刚下卡的新户-今年8月官方口径里新加的一句-限",
+    "region": "CN",
+    "issuer": "中信银行",
+    "cardNames": [
+      "中信银行信用卡"
+    ],
+    "title": "先交代这篇写给谁：手里有一张中信信用卡、平时吃饭打车看电影都刷卡、每月账单一千到一万之间的持卡人。不是写给刚下卡的新户——今年8月官方口径里新加的一句\"限...",
+    "category": "dining",
+    "discountType": "coupon",
+    "valueText": "优惠码活动，最高约 ¥12",
+    "estimatedValue": 40,
+    "currency": "CNY",
+    "minSpend": 12,
+    "maxDiscount": 40,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "先交代这篇写给谁：手里有一张中信信用卡、平时吃饭打车看电影都刷卡、每月账单一千到一万之间的持卡人。不是写给刚下卡的新户——今年8月官方口径里新加的一句\"限持卡满12个月及以上\"，正好把新户挡在外面，这是后话。8月16日，小红书上一条四行字的帖子让不少中信持卡人第一次意识到，自己每月换的权益券在\"二级市场\"是有行情的：发帖人长期大量回收百果园20/30/40元、达美乐50/100元的面值券，评论区一排\"怎么收\"。小红书这条帖子底下还藏着两条更值钱的信息——有人说\"9999档的达美乐是不是不补货了\"，得到回复\"准点都是已售罄\"；有人问\"上个月的权益还没兑换，这个月几号失效\"，得到回复\"截止保留到5号当天\"。小红书也就是说：如果你8月刷满了档位、一直没腾出手去动卡空间APP兑换，那批权益在9月6日已经作废了。一、规则今年重新\"读\"了一遍，和去年吵翻口的口径不一样了把中信银行信用卡官方小红书号8月13日的活动原文拆开看，当前的机制是：持卡客户每月消费满1999元、3999元、9999元，可分别获得1个【99365】权益，每人每月最多可获3个，凭权益可在【9分享兑】等专区中任选1个兑换相应...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 71.7,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 2.7,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-刷免-白金卡-送贵宾厅-9月权益地震-汇丰关厅-即梦砍分-双11前把会员的留换账算清",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 4,
+    "currency": "USD",
+    "minSpend": 12,
+    "maxDiscount": 4,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 70.6,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 1.6,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-刷免-白金卡-送贵宾厅-9月权益地震-汇丰关厅-即梦砍分-双11前把会员的留换账算清",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 4,
+    "currency": "USD",
+    "minSpend": 12,
+    "maxDiscount": 4,
+    "requiresRegistration": false,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 刷免！白金卡！送贵宾厅！ 9月权益地震：汇丰关厅、即梦砍分，双11前把会员的留换账算清...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
+    "score": 70.6,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 1.6,
+      "audienceBreadth": 14,
+      "convenience": 10,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": 0
+    }
+  },
+  {
     "id": "cn-银联-黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西-银联优购全球-返现力度-海淘活动",
     "region": "CN",
     "issuer": "银联",
@@ -117,77 +348,11 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
       "maxSavings": 6,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 交行200元照片卡热帖晒满靓号：别家一个个关掉DIY窗口，上车这条“最后通道”前先算清号段、审核、10年换回三笔账 交行怡然白“焕新”上线，持卡人在算另一笔账：180元红包实测只值60，先查你卡在哪条周期线再决定掏不掏25万分 9月1日，交行运通怡然白金信用卡的\"焕新升级\"稿刷了一波屏：8月30日上海巨鹿路的\"怡然白·浅秋交享会\"沙龙，精油调香、果壳风铃、中医问诊、手碟冥想，通稿的关键词是\"生活、健康、出行\"三大高频场景。今日头条但同一个星期，卡圈的帖子里没有人聊沙龙，所有人都在算同一笔账：25万积分抵1000元年费，到底还值不值。先说清楚一个容易被通稿淹掉的前提：怡然白2024年3月起就暂停了新卡申请（卡圈多篇攻略一致口径）。落落说卡...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
-    "score": 44.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-银联-信用卡精选好文-更多好文-交行200元照片卡热帖晒满靓号-别家一个个关掉diy窗口-上车这条-最后通道-前先算清号段-审核-10年换回三笔账",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 交行200元照片卡热帖晒满靓号：别家一个个关掉DIY窗口，上车这条“最后通道”前先算清号段、审核、10年换回三笔账...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 120,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 交行200元照片卡热帖晒满靓号：别家一个个关掉DIY窗口，上车这条“最后通道”前先算清号段、审核、10年换回三笔账 交行怡然白“焕新”上线，持卡人在算另一笔账：180元红包实测只值60，先查你卡在哪条周期线再决定掏不掏25万分 9月1日，交行运通怡然白金信用卡的\"焕新升级\"稿刷了一波屏：8月30日上海巨鹿路的\"怡然白·浅秋交享会\"沙龙，精油调香、果壳风铃、中医问诊、手碟冥想，通稿的关键词是\"生活、健康、出行\"三大高频场景。今日头条但同一个星期，卡圈的帖子里没有人聊沙龙，所有人都在算同一笔账：25万积分抵1000元年费，到底还值不值。先说清楚一个容易被通稿淹掉的前提：怡然白2024年3月起就暂停了新卡申请（卡圈多篇攻略一致口径）。落落说卡...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
-    "score": 44.6,
-    "scoreBreakdown": {
-      "effectiveRate": 4,
-      "maxSavings": 1.6,
       "audienceBreadth": 14,
       "convenience": 10,
       "urgency": 4,
@@ -213,7 +378,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -243,7 +408,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -273,7 +438,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -303,7 +468,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -333,7 +498,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -363,7 +528,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -393,7 +558,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -423,7 +588,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -453,7 +618,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "http://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -483,7 +648,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "http://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -513,7 +678,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -543,7 +708,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -573,7 +738,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -583,70 +748,6 @@
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 5,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-中信银行-放水-新卡-农行大白金-好消息-农行在9月2日又发布了一张新的大白金-visa",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "放水！新卡！农行大白金！ 好消息！农行在9月2日又发布了一张新的大白金。Visa...",
-    "category": "dining",
-    "discountType": "coupon",
-    "valueText": "里程优惠",
-    "estimatedValue": 50,
-    "currency": "CNY",
-    "maxDiscount": 50,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "放水！新卡！农行大白金！ 好消息！农行在9月2日又发布了一张新的大白金。Visa YES育见信用卡。距离7月份Visa尊享白金卡上线才刚过去两个月，农行在境外高端卡这条产品线上动作之频繁，确实让人有点意外。这张卡的全称是“Visa YES育见信用卡”，属于Visa御玺卡等级。它还有一个“小弟”叫“YES遇见信用卡”，定位是小白金。两者最核心的区别在于：只有“育见”版才配备境外无限次龙腾机场贵宾厅。这张卡什么来头？先说说这张卡的背景。YES项目全称是“青年使者交流学习计划”（Young Envoys...",
-    "sourceUrl": "https://post.smzdm.com/p/al3x6xqg/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-05T15:42:06.010Z",
-    "score": 42.3,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 3.3,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "cn-中信银行-全网都在砍卡砍额-中信却在给海底捞充5折-9月的日常用卡权益-算笔账再决定",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "全网都在砍卡砍额，中信却在给海底捞充5折：9月的日常用卡权益，算笔账再决定...",
-    "category": "dining",
-    "discountType": "coupon",
-    "valueText": "里程优惠",
-    "estimatedValue": 50,
-    "currency": "CNY",
-    "maxDiscount": 50,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "全网都在砍卡砍额，中信却在给海底捞充5折：9月的日常用卡权益，算笔账再决定...",
-    "sourceUrl": "https://post.smzdm.com/p/anvxrqk3/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-05T15:42:06.010Z",
-    "score": 42.3,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 3.3,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
       "riskPenalty": 0
     }
   },
@@ -669,7 +770,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -702,7 +803,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -735,7 +836,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -768,7 +869,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-07T21:49:44.691Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.984Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -779,70 +880,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -7
-    }
-  },
-  {
-    "id": "cn-中信银行-信用卡精选好文-更多好文-建行7600积分-大概价值11元-动动手指就可领取-有卡一定要参加-放水-新卡-农行大白金",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 建行7600积分，大概价值11元，动动手指就可领取，有卡一定要参加 放水！新卡！农行大白金！...",
-    "category": "dining",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 7,600 点",
-    "estimatedValue": 11,
-    "currency": "CNY",
-    "maxDiscount": 11,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 建行7600积分，大概价值11元，动动手指就可领取，有卡一定要参加 放水！新卡！农行大白金！ 好消息！农行在9月2日又发布了一张新的大白金。Visa YES育见信用卡。距离7月份Visa尊享白金卡上线才刚过去两个月，农行在境外高端卡这条产品线上动作之频繁，确实让人有点意外。这张卡的全称是“Visa YES育见信用卡”，属于Visa御玺卡等级。它还有一个“小弟”叫“YES遇见信用卡”，定位是小白金。两者最核心的区别在于：只有“育见”版才配备境外无限次龙腾机场贵宾厅。这张卡什么来头？先说说这张卡的背景。YES项目全称是“青年使者交流学习计划”（Young Envoys...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-05T15:42:06.010Z",
-    "score": 34.7,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0.7,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-中信银行-建行7600积分-大概价值11元-动动手指就可领取-有卡一定要参加-放水-新卡-农行大白金-好消息-农行在9月2日又发布了一张新的大白金-visa",
-    "region": "CN",
-    "issuer": "中信银行",
-    "cardNames": [
-      "中信银行信用卡"
-    ],
-    "title": "建行7600积分，大概价值11元，动动手指就可领取，有卡一定要参加 放水！新卡！农行大白金！ 好消息！农行在9月2日又发布了一张新的大白金。Visa...",
-    "category": "dining",
-    "discountType": "points",
-    "valueText": "里程优惠，最高约 7,600 点",
-    "estimatedValue": 11,
-    "currency": "CNY",
-    "maxDiscount": 11,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "建行7600积分，大概价值11元，动动手指就可领取，有卡一定要参加 放水！新卡！农行大白金！ 好消息！农行在9月2日又发布了一张新的大白金。Visa YES育见信用卡。距离7月份Visa尊享白金卡上线才刚过去两个月，农行在境外高端卡这条产品线上动作之频繁，确实让人有点意外。这张卡的全称是“Visa YES育见信用卡”，属于Visa御玺卡等级。它还有一个“小弟”叫“YES遇见信用卡”，定位是小白金。两者最核心的区别在于：只有“育见”版才配备境外无限次龙腾机场贵宾厅。这张卡什么来头？先说说这张卡的背景。YES项目全称是“青年使者交流学习计划”（Young Envoys...",
-    "sourceUrl": "https://post.smzdm.com/p/a825wnwn/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-05T15:42:06.010Z",
-    "score": 34.7,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0.7,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
     }
   },
   {
@@ -955,7 +992,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-07T21:49:44.689Z",
+    "lastCheckedAt": "2026-09-08T05:26:21.983Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
