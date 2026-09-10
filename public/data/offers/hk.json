@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.432Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.095Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox+Mox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,37 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
-    "score": 43,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 5,
-      "riskPenalty": 0
-    }
-  },
-  {
-    "id": "hk-mox-bank-迎新优惠",
-    "region": "HK",
-    "issuer": "Mox Bank",
-    "cardNames": [
-      "Mox Credit"
-    ],
-    "title": "迎新优惠",
-    "category": "welcome",
-    "discountType": "other",
-    "valueText": "迎新优惠",
-    "currency": "HKD",
-    "requiresRegistration": false,
-    "termsSummary": "迎新优惠，具体资格、名额和日期以 Mox 公开条款为准。",
-    "originalText": "“MOXCASH” welcome offer promotion terms and conditions",
-    "sourceUrl": "https://mox.com/static/MOXCASH_Promotion_TnCs.pdf",
-    "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +228,7 @@
     "originalText": "Promotion period from 10 August 2026 to 31 October 2026.",
     "sourceUrl": "https://mox.com/promotions/invest-fund-0-fee-aug/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +258,7 @@
     "originalText": "Funds 0% Subscription Fee promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202608_MoxInvestFunds0FeePromotionTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +288,7 @@
     "originalText": "Welcome OfferTeam up with your favourite content creator. Win bigger together.",
     "sourceUrl": "https://mox.com/promotions/explore/mgm-team-up-reward/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +318,7 @@
     "originalText": "Mox Team Up referral reward promotion terms and conditions",
     "sourceUrl": "https://mox.com/static/Mox_KOL_TeamUp_referral_programme_TnCs.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -362,33 +332,33 @@
     }
   },
   {
-    "id": "hk-mox-bank-迎新优惠-最高约-hk-2-000",
+    "id": "hk-mox-bank-迎新优惠",
     "region": "HK",
     "issuer": "Mox Bank",
     "cardNames": [
       "Mox Credit"
     ],
-    "title": "迎新优惠，最高约 HK$2,000",
+    "title": "迎新优惠",
     "category": "welcome",
     "discountType": "other",
-    "valueText": "迎新优惠，最高约 HK$2,000",
+    "valueText": "迎新优惠",
     "currency": "HKD",
-    "requiresRegistration": true,
-    "termsSummary": "迎新优惠，最高约 HK$2,000，具体资格、名额和日期以 Mox 公开条款为准。",
-    "originalText": "Welcome OfferJoin Mox with the invitation code “MOXCASH” and earn up to HKD2,000!",
-    "sourceUrl": "https://mox.com/promotions/moxcash/",
+    "requiresRegistration": false,
+    "termsSummary": "迎新优惠，具体资格、名额和日期以 Mox 公开条款为准。",
+    "originalText": "Welcome OfferSave and earn with Mox! Fund in and earn straight away!",
+    "sourceUrl": "https://mox.com/promotions/moxboost/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
-    "score": 38,
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
+    "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
       "maxSavings": 0,
       "audienceBreadth": 14,
-      "convenience": 7,
+      "convenience": 10,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 5,
-      "riskPenalty": -2
+      "riskPenalty": 0
     }
   },
   {
@@ -405,10 +375,10 @@
     "currency": "HKD",
     "requiresRegistration": true,
     "termsSummary": "开卡奖励优惠，最高约 HK$1,000，具体资格、名额和日期以 Mox 公开条款为准。",
-    "originalText": "Join Mox using your favourite content creator’s Referral Code and unlock bigger rewards! The Mox Referral Programme just got even more exciting – 7 content creators, 7 alliances to unlock bonus welcome reward! From now until 10 September 2026, open a Mox Account using a designated content creator's Referral Code and form a rewards alliance. Once your alliance hits the account-opening target, everyone will receive the corresponding Team Top-Up Reward of up to HKD1,000 cash¹, on top of the rewards from the Mox Referral Programme² – earn cash rewards up to HKD3,000 in total¹‧².",
+    "originalText": "Join Mox using your favourite content creator’s Referral Code and unlock bigger rewards! The Mox Referral Programme just got even more exciting – 7 content creators, 7 alliances to unlock bonus welcome reward! From now until 13 September 2026, open a Mox Account using a designated content creator's Referral Code and form a rewards alliance. Once your alliance hits the account-opening target, everyone will receive the corresponding Team Top-Up Reward of up to HKD1,000 cash¹, on top of the rewards from the Mox Referral Programme² – earn cash rewards up to HKD3,000 in total¹‧².",
     "sourceUrl": "https://mox.com/promotions/explore/mgm-team-up-reward/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-10T05:25:46.433Z",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -419,6 +389,36 @@
       "certainty": 10,
       "sourceReliability": 5,
       "riskPenalty": -2
+    }
+  },
+  {
+    "id": "hk-mox-bank-mox-credit-信用卡迎新优惠-最高约-hk-3-500",
+    "region": "HK",
+    "issuer": "Mox Bank",
+    "cardNames": [
+      "Mox Credit"
+    ],
+    "title": "Mox Credit 信用卡迎新优惠，最高约 HK$3,500",
+    "category": "welcome",
+    "discountType": "other",
+    "valueText": "Mox Credit 信用卡迎新优惠，最高约 HK$3,500",
+    "currency": "HKD",
+    "requiresRegistration": true,
+    "termsSummary": "Mox Credit 信用卡迎新优惠，最高约 HK$3,500，具体资格、名额和日期以 Mox 公开条款为准。",
+    "originalText": "Mox CreditWelcome Offer“Unfold” the next-gen wave📱 Get up to 7% rebates + 0% interest instalment on the latest smartphone, plus up to HKD3,500 for new customers💰🤳September is here, and the highly anticipated smartphone has finally arrived. Mox has you covered against global price hikes🚀 Simply register and pay with Mox Credit Card at designated merchants to enjoy up to 7% cash rebate, 12-month 0% interest instalment. New customers can also enjoy up to HKD3,500 Welcome reward!Learn more",
+    "sourceUrl": "https://mox.com/promotions/2026-phone-promotion/",
+    "sourceReliability": "official",
+    "lastCheckedAt": "2026-09-10T11:57:08.096Z",
+    "score": 31,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 0,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 5,
+      "riskPenalty": -9
     }
   }
 ]
