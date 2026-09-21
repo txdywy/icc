@@ -1,137 +1,5 @@
 [
   {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-5倍积分-卡圈沸腾了-池子13号就空了-超额返现按入账算-国庆刷农行卡出境之前-先把这三只钟对一遍",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 513,
-    "currency": "USD",
-    "minSpend": 200,
-    "maxDiscount": 513,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍 农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前还能抽最高666元刷卡金券。9月20日前后，“十一出境游，就用农行信用卡”、“报名境外返现活动，多重返现至高数千元”、“手机Pay绑卡，境外消费笔笔返\"的物料已经铺到各个平台。往回看，Visa版五重返现的官方口径是\"每季度至高可返513美元”，银联版和银联联合推的是线下、商户、大额、留学缴费五重返现、至高返2650元。小红书小红书微博另一套在实测帖里：9月17日，有人晒出9月9-12日刷的农行Visa——首笔1美元、笔笔3%、Apple Pay 2%、精选商户10%，一笔没到，“往常能坚持到20多号的”。9月18日另一条帖子的标题更直接：“农行的visa返现池子是不是空了”。评论区一排实锤：“好像13号就空了，12号还返来着”“15号就没了”“日韩apple pay...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 84,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-银联-信用卡精选好文-更多好文-5倍积分-卡圈沸腾了-池子13号就空了-超额返现按入账算-国庆刷农行卡出境之前-先把这三只钟对一遍",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "信用卡精选好文 更多好文 5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 513,
-    "currency": "USD",
-    "minSpend": 200,
-    "maxDiscount": 513,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍 农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前还能抽最高666元刷卡金券。9月20日前后，“十一出境游，就用农行信用卡”、“报名境外返现活动，多重返现至高数千元”、“手机Pay绑卡，境外消费笔笔返\"的物料已经铺到各个平台。往回看，Visa版五重返现的官方口径是\"每季度至高可返513美元”，银联版和银联联合推的是线下、商户、大额、留学缴费五重返现、至高返2650元。小红书小红书微博另一套在实测帖里：9月17日，有人晒出9月9-12日刷的农行Visa——首笔1美元、笔笔3%、Apple Pay 2%、精选商户10%，一笔没到，“往常能坚持到20多号的”。9月18日另一条帖子的标题更直接：“农行的visa返现池子是不是空了”。评论区一排实锤：“好像13号就空了，12号还返来着”“15号就没了”“日韩apple pay...",
-    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 84,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-银联-5倍积分-卡圈沸腾了-池子13号就空了-超额返现按入账算-国庆刷农行卡出境之前-先把这三只钟对一遍",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠，最高约 ¥200",
-    "estimatedValue": 513,
-    "currency": "USD",
-    "minSpend": 200,
-    "maxDiscount": 513,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "5倍积分！卡圈沸腾了！ 池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍 农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前还能抽最高666元刷卡金券。9月20日前后，“十一出境游，就用农行信用卡”、“报名境外返现活动，多重返现至高数千元”、“手机Pay绑卡，境外消费笔笔返\"的物料已经铺到各个平台。往回看，Visa版五重返现的官方口径是\"每季度至高可返513美元”，银联版和银联联合推的是线下、商户、大额、留学缴费五重返现、至高返2650元。小红书小红书微博另一套在实测帖里：9月17日，有人晒出9月9-12日刷的农行Visa——首笔1美元、笔笔3%、Apple Pay 2%、精选商户10%，一笔没到，“往常能坚持到20多号的”。9月18日另一条帖子的标题更直接：“农行的visa返现池子是不是空了”。评论区一排实锤：“好像13号就空了，12号还返来着”“15号就没了”“日韩apple pay...",
-    "sourceUrl": "https://post.smzdm.com/p/a6z04og0/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 84,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-银联-池子13号就空了-超额返现按入账算-国庆刷农行卡出境之前-先把这三只钟对一遍",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍...",
-    "category": "travel",
-    "discountType": "cashback",
-    "valueText": "现金回赠优惠，最高约 ¥200",
-    "estimatedValue": 513,
-    "currency": "USD",
-    "minSpend": 200,
-    "maxDiscount": 513,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "池子13号就空了，超额返现按入账算：国庆刷农行卡出境之前，先把这三只钟对一遍 农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前还能抽最高666元刷卡金券。9月20日前后，“十一出境游，就用农行信用卡”、“报名境外返现活动，多重返现至高数千元”、“手机Pay绑卡，境外消费笔笔返\"的物料已经铺到各个平台。往回看，Visa版五重返现的官方口径是\"每季度至高可返513美元”，银联版和银联联合推的是线下、商户、大额、留学缴费五重返现、至高返2650元。小红书小红书微博另一套在实测帖里：9月17日，有人晒出9月9-12日刷的农行Visa——首笔1美元、笔笔3%、Apple Pay 2%、精选商户10%，一笔没到，“往常能坚持到20多号的”。9月18日另一条帖子的标题更直接：“农行的visa返现池子是不是空了”。评论区一排实锤：“好像13号就空了，12号还返来着”“15号就没了”“日韩apple pay...",
-    "sourceUrl": "https://post.smzdm.com/p/ak8kkx3r/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 84,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 20,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
     "id": "cn-中信银行-信用卡精选好文-更多好文-投诉完才补货-农行黑金接送机-售罄-返场-一周走完-3000年费和40万积分掏之前-先把券-里程-传闻三笔账排一遍",
     "region": "CN",
     "issuer": "中信银行",
@@ -250,7 +118,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -283,7 +151,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -321,72 +189,6 @@
     "scoreBreakdown": {
       "effectiveRate": 30,
       "maxSavings": 3.6,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-银联-国庆省多少-九月就定了-刷农行卡去奥莱-加油-买票之前-先把三只钟对一遍",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "国庆省多少，九月就定了：刷农行卡去奥莱、加油、买票之前，先把三只钟对一遍...",
-    "category": "travel",
-    "discountType": "coupon",
-    "valueText": "优惠码活动，最高约 ¥200",
-    "estimatedValue": 50,
-    "currency": "CNY",
-    "minSpend": 200,
-    "maxDiscount": 50,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "国庆省多少，九月就定了：刷农行卡去奥莱、加油、买票之前，先把三只钟对一遍 上周帮家里订假期机票的朋友发现，同样一张东航的票，有人付款页直接减50，有人只摸到个8元零头。差的不是手气，是他提前把卡的支付通道和活动资格走了一遍，而多数人直到结账那几秒才想起\"农行卡是不是有活动来着\"。小红书9月16日，农行信用卡的\"金秋文旅季\"官方上线，把食住行游购娱的礼遇全部覆盖。紧接着玩卡圈把云闪付那头的规则扒了一遍。两波叠在一起，恰好卡在双节前的最后窗口。这篇不重复活动清单，只把三件单个帖子很少讲全的事排一遍：哪三只钟在滴答、七条线路各自卡什么门槛、哪几种人根本不用凑热闹。小红书三只钟：假期折扣的上限，其实由九月决定第一只：资格钟——\"上月消费达标\"决定你下个月能不能领券。...",
-    "sourceUrl": "https://post.smzdm.com/p/a950098p/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 67.3,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 3.3,
-      "audienceBreadth": 14,
-      "convenience": 7,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": -2
-    }
-  },
-  {
-    "id": "cn-银联-上周帮家里订假期机票的朋友发现-同样一张东航的票-有人付款页直接减50-有人只摸到个8元零头-差的不是手气-是他提前把卡的支付通道和活动资格走了一遍-而多",
-    "region": "CN",
-    "issuer": "银联",
-    "cardNames": [
-      "银联信用卡"
-    ],
-    "title": "上周帮家里订假期机票的朋友发现，同样一张东航的票，有人付款页直接减50，有人只摸到个8元零头。差的不是手气，是他提前把卡的支付通道和活动资格走了一遍，而多...",
-    "category": "travel",
-    "discountType": "coupon",
-    "valueText": "优惠码活动，最高约 ¥200",
-    "estimatedValue": 50,
-    "currency": "CNY",
-    "minSpend": 200,
-    "maxDiscount": 50,
-    "requiresRegistration": true,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "上周帮家里订假期机票的朋友发现，同样一张东航的票，有人付款页直接减50，有人只摸到个8元零头。差的不是手气，是他提前把卡的支付通道和活动资格走了一遍，而多数人直到结账那几秒才想起\"农行卡是不是有活动来着\"。小红书9月16日，农行信用卡的\"金秋文旅季\"官方上线，把食住行游购娱的礼遇全部覆盖。紧接着玩卡圈把云闪付那头的规则扒了一遍。两波叠在一起，恰好卡在双节前的最后窗口。这篇不重复活动清单，只把三件单个帖子很少讲全的事排一遍：哪三只钟在滴答、七条线路各自卡什么门槛、哪几种人根本不用凑热闹。小红书三只钟：假期折扣的上限，其实由九月决定第一只：资格钟——\"上月消费达标\"决定你下个月能不能领券。...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 67.3,
-    "scoreBreakdown": {
-      "effectiveRate": 30,
-      "maxSavings": 3.3,
       "audienceBreadth": 14,
       "convenience": 7,
       "urgency": 4,
@@ -462,29 +264,63 @@
     }
   },
   {
-    "id": "cn-银联-农行信用卡这边的9月-是两套平行叙事-一套在官方页面上-9月16日农行信用卡官方账号发-金秋文旅季-攻略-境外消费写的是-六重返现-专属汇率优惠-出发前",
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-国庆前加油别急着排队-工行卡返现10-会员叠加-一箱油省出两顿饭钱-玩转攻略",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前...",
-    "category": "overseas",
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略...",
+    "category": "dining",
     "discountType": "cashback",
-    "valueText": "现金回赠优惠",
-    "estimatedValue": 513,
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 10,
     "currency": "USD",
-    "maxDiscount": 513,
+    "minSpend": 120,
+    "maxDiscount": 10,
     "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "农行信用卡这边的9月，是两套平行叙事。一套在官方页面上：9月16日农行信用卡官方账号发「金秋文旅季」攻略，境外消费写的是\"六重返现+专属汇率优惠\"，出发前还能抽最高666元刷卡金券。9月20日前后，“十一出境游，就用农行信用卡”、“报名境外返现活动，多重返现至高数千元”、“手机Pay绑卡，境外消费笔笔返\"的物料已经铺到各个平台。往回看，Visa版五重返现的官方口径是\"每季度至高可返513美元”，银联版和银联联合推的是线下、商户、大额、留学缴费五重返现、至高返2650元。小红书小红书微博另一套在实测帖里：9月17日，有人晒出9月9-12日刷的农行Visa——首笔1美元、笔笔3%、Apple Pay 2%、精选商户10%，一笔没到，“往常能坚持到20多号的”。9月18日另一条帖子的标题更直接：“农行的visa返现池子是不是空了”。评论区一排实锤：“好像13号就空了，12号还返来着”“15号就没了”“日韩apple pay...",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
     "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
-    "score": 54,
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 48,
     "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 20,
+      "effectiveRate": 10,
+      "maxSavings": 4,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-国庆前加油别急着排队-工行卡返现10-会员叠加-一箱油省出两顿饭钱-玩转攻略-篇零-攻略-五倍积分包怎么玩-中行-vs",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 10,
+    "currency": "USD",
+    "minSpend": 120,
+    "maxDiscount": 10,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 48,
+    "scoreBreakdown": {
+      "effectiveRate": 10,
+      "maxSavings": 4,
       "audienceBreadth": 14,
       "convenience": 7,
       "urgency": 4,
@@ -512,7 +348,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -542,7 +378,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -572,7 +408,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -602,7 +438,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -632,7 +468,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -662,7 +498,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -692,7 +528,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -722,7 +558,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -752,7 +588,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -782,7 +618,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "https://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -812,7 +648,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "https://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -842,7 +678,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -872,7 +708,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -902,7 +738,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -934,7 +770,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -997,7 +833,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1030,7 +866,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1063,7 +899,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-09-21T05:38:30.810Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -1074,6 +910,134 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -7
+    }
+  },
+  {
+    "id": "cn-平安银行-玩转攻略-篇零-攻略-五倍积分包怎么玩-中行-vs-农行-一篇说清",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "category": "travel",
+    "discountType": "points",
+    "valueText": "里程优惠",
+    "estimatedValue": 25,
+    "currency": "CNY",
+    "maxDiscount": 25,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "sourceUrl": "https://post.smzdm.com/p/arzqkglz/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 35.7,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 1.7,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-近期-几家银行的积分动作频出-平安五倍积分包到期未续-农行尊然白里程兑换比例即将调整-中行又于9月20日上架多款福气值积分包-每一步都牵动着卡友的玩卡策",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "近期，几家银行的积分动作频出：平安五倍积分包到期未续、农行尊然白里程兑换比例即将调整、中行又于9月20日上架多款福气值积分包——每一步都牵动着卡友的玩卡策...",
+    "category": "travel",
+    "discountType": "points",
+    "valueText": "里程优惠",
+    "estimatedValue": 25,
+    "currency": "CNY",
+    "maxDiscount": 25,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "近期，几家银行的积分动作频出：平安五倍积分包到期未续、农行尊然白里程兑换比例即将调整、中行又于9月20日上架多款福气值积分包——每一步都牵动着卡友的玩卡策略。付费购买多倍积分包，对用户而言，加速累计积分赚增值收益；对银行而言，则撬动了交易量。表面看，这是信用卡活动的常见打法，也是银行和用户双赢的局面。那么，对于我们而言，面对同样推出五倍积分包的中行和农行，在个人消费量有限的情况下，怎么选？怎么玩？01中国银行多倍包概况：微信支付宝月包：25元/月，消费5倍积分，上限5万积分/月；微信支付宝季包：68元/季，消费5倍积分，上限5万积分/月；多渠道月包：15元/月，消费5倍积分，上限5万积分/月；多渠道季包：40元/季，消费5倍积分，上限5万积分/月。注意事项：报名即生效，次月扣款，报名后不支持退订。季包的周期并非自然季度，以目前为例，周期为9-11三个自然月；多渠道包中不包含微信和支付宝，仅包含京东、美团、抖音、拼多多、携程、唯品会渠道；同类型季包和月包不可叠加，同时购买5倍福气值月包和季包，则仅触发季包。叠加操作：需报名，报名后绑卡微信、支付宝、京东、美团、唯品会、拼多多、抖音、...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 35.7,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 1.7,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-信用卡精选好文-更多好文-国庆前加油别急着排队-工行卡返现10-会员叠加-一箱油省出两顿饭钱-玩转攻略-篇零-攻略-五倍积分包怎么玩-中行-vs",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠",
+    "estimatedValue": 10,
+    "currency": "CNY",
+    "maxDiscount": 10,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 34.7,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 0.7,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-平安银行-国庆前加油别急着排队-工行卡返现10-会员叠加-一箱油省出两顿饭钱-玩转攻略-篇零-攻略-五倍积分包怎么玩-中行-vs-农行-一篇说清",
+    "region": "CN",
+    "issuer": "平安银行",
+    "cardNames": [
+      "平安银行信用卡"
+    ],
+    "title": "国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠",
+    "estimatedValue": 10,
+    "currency": "CNY",
+    "maxDiscount": 10,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "国庆前加油别急着排队！工行卡返现10%+会员叠加，一箱油省出两顿饭钱 玩转攻略 篇零：攻略｜五倍积分包怎么玩？中行 vs 农行，一篇说清...",
+    "sourceUrl": "https://post.smzdm.com/p/aqrmw657/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-09-21T13:27:55.968Z",
+    "score": 34.7,
+    "scoreBreakdown": {
+      "effectiveRate": 0,
+      "maxSavings": 0.7,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
     }
   },
   {
@@ -1093,7 +1057,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-21T05:38:30.807Z",
+    "lastCheckedAt": "2026-09-21T13:27:55.965Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
