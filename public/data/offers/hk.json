@@ -18,7 +18,7 @@
     "originalText": "$(document).ready(function(){ /*Single Card Type function*/ $(\"#existCust, #newCust\").on('click',function(){ $.fancybox.close(); }); $(\"#singleCards\").on('click',function(){ $.fancybox({'href':\"#premierMiles\"}); $(\"html,body\").animate({scrollTop:517},300); }) $(\"#single2Cards\").on('click',function(){ $.fancybox({'href':\"#Rewards\"}); $(\"html,body\").animate({scrollTop:757},300); }) $(\"#single3Cards\").on('click',function(){ $.fancybox({'href':\"#ClearCard\"}); $(\"html,body\").animate({scrollTop:757},3",
     "sourceUrl": "https://www.citibank.com.hk/english/credit-cards/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.737Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.685Z",
     "score": 63,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -48,7 +48,7 @@
     "originalText": "FeaturesMox+Mox Credit CardMox InvestMox InsureSmart BankingSmart BorrowingInstant LoanSmart SavingSmart SpendingMox FXMox at a glance",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -78,7 +78,7 @@
     "originalText": "Mox Credit Card",
     "sourceUrl": "https://mox.com/features/mox-credit/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -108,7 +108,7 @@
     "originalText": "Promotions",
     "sourceUrl": "https://mox.com/promotions/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -138,7 +138,7 @@
     "originalText": "Mox Credit",
     "sourceUrl": "https://mox.com/promotions/?category=mox-credit",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -168,7 +168,7 @@
     "originalText": "Welcome Offer",
     "sourceUrl": "https://mox.com/promotions/?category=welcome-offer",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -198,7 +198,7 @@
     "originalText": "Asia Miles",
     "sourceUrl": "https://mox.com/promotions/?category=asia-miles",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -228,7 +228,7 @@
     "originalText": "Promotion period from 23 September 2026 to 31 October 2026.",
     "sourceUrl": "https://mox.com/promotions/explore/mox-insure-home-cushion-insurance/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -258,7 +258,7 @@
     "originalText": "Home Cushion September 2026 to October 2026 promotion terms and conditions",
     "sourceUrl": "https://mox.com/static/202609_HomeInsuranceSeptemberPromotion.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -288,7 +288,7 @@
     "originalText": "Introducing Mox Debt Consolidation Loan! Take Back Control. One Loan, Zero Hassle. Different loans, different card bills, different due dates — headache to track, and late fees hit hard if you miss! The Mox Debt Consolidation Loan is here to bring you relief and control. We consolidate your outstanding debts from various financial institutions into one convenient, manageable monthly payment. Gain financial clarity and lessen your stress with Mox!To borrow or not to borrow? Borrow only if you can repay! Promotion til 31 October 2026. Terms and conditions apply.Learn more",
     "sourceUrl": "https://mox.com/promotions/DC/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -318,7 +318,7 @@
     "originalText": "Promotion period from 23 September 2026 to 31 December 2026.",
     "sourceUrl": "https://mox.com/promotions/invest-scratch/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -348,7 +348,7 @@
     "originalText": "Mox Wealth 5 Scratch Promotion Terms and Conditions",
     "sourceUrl": "https://mox.com/static/202609_MoxInvestWealth5ScratchTnC.pdf",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -378,7 +378,7 @@
     "originalText": "Welcome OfferJoin Mox with the invitation code “MOXCASH” and earn up to HKD2,000!",
     "sourceUrl": "https://mox.com/promotions/moxcash/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 38,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -408,7 +408,7 @@
     "originalText": "Mox CreditWelcome Offer“Unfold” the next-gen wave📱 Get up to 7% rebates + 0% interest instalment on the latest smartphone, plus up to HKD3,500 for new customers💰🤳September is here, and the highly anticipated smartphone has finally arrived. Mox has you covered against global price hikes🚀 Simply register and pay with Mox Credit Card at designated merchants to enjoy up to 7% cash rebate, 12-month 0% interest instalment. New customers can also enjoy up to HKD3,500 Welcome reward!Learn more",
     "sourceUrl": "https://mox.com/promotions/2026-phone-promotion/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-09-26T11:56:36.738Z",
+    "lastCheckedAt": "2026-09-26T16:49:00.686Z",
     "score": 31,
     "scoreBreakdown": {
       "effectiveRate": 0,
