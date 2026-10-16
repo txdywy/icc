@@ -99,6 +99,72 @@
     }
   },
   {
+    "id": "cn-银联-前海7折刷屏却有一半人刷卡失败-三条优惠线叠出6折-23个实测名单一次核完-先看懂这5个坑再烧一周一次的名额",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "前海7折刷屏却有一半人刷卡失败：三条优惠线叠出6折、23个实测名单一次核完，先看懂这5个坑再烧一周一次的名额...",
+    "category": "mobile-payment",
+    "discountType": "coupon",
+    "valueText": "优惠码活动，最高约 ¥2,000",
+    "estimatedValue": 600,
+    "currency": "CNY",
+    "minSpend": 2000,
+    "maxDiscount": 600,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "前海7折刷屏却有一半人刷卡失败：三条优惠线叠出6折、23个实测名单一次核完，先看懂这5个坑再烧一周一次的名额 这半个月，深圳北上的羊毛圈里最热的不是双11，而是\"前海7折\"。银联这条9月中旬上线的入境消费立减，已经成了港澳和境外持卡人北上的必修课，商家统计帖开篇就把门槛说透了：只要是银联外卡都能参与。 但翻近一个月的帖子，评论区问得最密集的就三类：我的卡能不能用？哪些店真能刷？名额还剩多少？先给结论：这是境外卡专属，内地卡别硬蹭；规则核心是三条优惠线可叠加、必须\"被扫\"、单卡一周一次。小红书一、先拆清楚：这不是一个活动，是三条线第一条线：前海入境消费立减（7折主线）。 窗口期2026年9月15日到11月30日，统计帖给出的完整口径是全场7折、单笔最高立减600元。 换句话说，刷满2000元就把这条线的优惠吃顶。适用卡里，境外发行的银联卡（含港澳）是最顺的一档，无需报名自动参加。 Visa/万事达持卡人则只有一条路，细节放在下一节讲。小红书小红书这条线还有两个硬约束：单卡单周限享1次，名额有限，可在云闪付搜索\"前海7折入境消费券\"查看剩余名额。...",
+    "sourceUrl": "https://post.smzdm.com/p/a03xqk49/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-这半个月-深圳北上的羊毛圈里最热的不是双11-而是-前海7折-银联这条9月中旬上线的入境消费立减-已经成了港澳和境外持卡人北上的必修课-商家统计帖开篇就",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "这半个月，深圳北上的羊毛圈里最热的不是双11，而是\"前海7折\"。银联这条9月中旬上线的入境消费立减，已经成了港澳和境外持卡人北上的必修课，商家统计帖开篇就...",
+    "category": "mobile-payment",
+    "discountType": "coupon",
+    "valueText": "优惠码活动，最高约 ¥2,000",
+    "estimatedValue": 600,
+    "currency": "CNY",
+    "minSpend": 2000,
+    "maxDiscount": 600,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "这半个月，深圳北上的羊毛圈里最热的不是双11，而是\"前海7折\"。银联这条9月中旬上线的入境消费立减，已经成了港澳和境外持卡人北上的必修课，商家统计帖开篇就把门槛说透了：只要是银联外卡都能参与。 但翻近一个月的帖子，评论区问得最密集的就三类：我的卡能不能用？哪些店真能刷？名额还剩多少？先给结论：这是境外卡专属，内地卡别硬蹭；规则核心是三条优惠线可叠加、必须\"被扫\"、单卡一周一次。小红书一、先拆清楚：这不是一个活动，是三条线第一条线：前海入境消费立减（7折主线）。 窗口期2026年9月15日到11月30日，统计帖给出的完整口径是全场7折、单笔最高立减600元。 换句话说，刷满2000元就把这条线的优惠吃顶。适用卡里，境外发行的银联卡（含港澳）是最顺的一档，无需报名自动参加。 Visa/万事达持卡人则只有一条路，细节放在下一节讲。小红书小红书这条线还有两个硬约束：单卡单周限享1次，名额有限，可在云闪付搜索\"前海7折入境消费券\"查看剩余名额。 一周只有一次机会，意味着每一笔都要算着花。小红书第二条线：银联外卡满200元9折（封顶50元）。...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 84,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 20,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
     "id": "cn-银联-618信用卡使用技巧-话费卡-购物节大幕即将开始-所以闲话少谈-直接开始说一-信用卡新户开卡礼-作为羊肉的忠实爱好者",
     "region": "CN",
     "issuer": "银联",
@@ -118,7 +184,7 @@
     "originalText": "618信用卡使用技巧(话费卡) 购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -151,7 +217,7 @@
     "originalText": "购物节大幕即将开始，所以闲话少谈 直接开始说一 信用卡新户开卡礼：作为羊肉的忠实爱好者， Alan把在可以回血618剁手的信用卡新户开卡礼 分为 小羊毛，羊肉串，小羊腿，大羊腿，烤全羊五个级别小羊毛： 剁手预算￥1000 以内 回血：200元京东卡/话费卡羊肉串： 剁手预算： ￥3000 左右 回血： 优盘/手表小羊腿： 剁手预算： ￥4000~ 以上 回血： 拉杆箱大羊腿： 剁手预算： ￥15000以上 回血： 旅行包+登机箱烤全羊： 剁手预算： ￥30000以上 回血： 3W国航里程 接下来，Alan就逐个结合着Alan的经常性剁手项目；具体说一说 希望能帮准备剁手的值友多回血一些~1.1 小羊毛- 花旗礼享卡： 200元京东卡/话费卡 礼享卡是花旗的入门卡，每年刷6笔就可以免年费， 而且开卡礼也算不错~简单的说， 开卡之后，刷满五笔 ￥88 返200元 京东卡/话费卡；适合618准备小试牛刀的朋友至于五笔￥88怎么刷 Alan 的建议是 : A. 各种日化/食品类类的满199减100的活动 (Alan 现在用的洗发水就是去年满199减100的活动时屯下来的) B....",
     "sourceUrl": "https://www.smzdm.com/zy/detail/ay5mdl6/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 82.3,
     "scoreBreakdown": {
       "effectiveRate": 30,
@@ -297,102 +363,168 @@
     }
   },
   {
-    "id": "cn-招商银行-今年办卡要是还送你行李箱-你可能会觉得这家银行有点落伍-从6月开始-信用卡圈冒出一个新物种-ai权益卡-招行送minimax的token-农行送kimi会",
+    "id": "cn-银联-广发-留学缴费满3万返10-今天又推上首页-先算清到手的真实返现率-再和建行-招行-卓隽拼成一张表-今天-10月16日-14-14-广发信用卡",
     "region": "CN",
-    "issuer": "招商银行",
+    "issuer": "银联",
     "cardNames": [
-      "招商银行信用卡"
+      "银联信用卡"
     ],
-    "title": "今年办卡要是还送你行李箱，你可能会觉得这家银行有点落伍。从6月开始，信用卡圈冒出一个新物种：AI权益卡。招行送MiniMax的Token，农行送Kimi会...",
-    "category": "overseas",
+    "title": "广发\"留学缴费满3万返10%\"今天又推上首页：先算清到手的真实返现率，再和建行、招行、卓隽拼成一张表 今天（10月16日）14:14，@广发信用卡...",
+    "category": "mobile-payment",
     "discountType": "cashback",
-    "valueText": "现金回赠优惠，最高约 ¥6",
-    "estimatedValue": 150,
+    "valueText": "现金回赠优惠，最高约 ¥3",
+    "estimatedValue": 10,
     "currency": "CNY",
-    "minSpend": 6,
-    "maxDiscount": 150,
-    "requiresRegistration": false,
+    "minSpend": 3,
+    "maxDiscount": 10,
+    "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "今年办卡要是还送你行李箱，你可能会觉得这家银行有点落伍。从6月开始，信用卡圈冒出一个新物种：AI权益卡。招行送MiniMax的Token，农行送Kimi会员，平安送智谱清言季卡——过去送锅、送视频会员的银行，开始送算力了。知乎小红书这不是噱头，是权益逻辑变了：贵宾厅一年用不了一两次，Token却是天天在烧的刚需。在卡片数量持续缩水、年轻客群难抢的当口，AI就是银行最新鲜的诱饵。五家银行，各送什么招行打头阵（6月12日）。运通工程师信用卡，新户达标可在三个MiniMax方案里挑一个：Token Plan...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "originalText": "广发\"留学缴费满3万返10%\"今天又推上首页：先算清到手的真实返现率，再和建行、招行、卓隽拼成一张表 今天（10月16日）14:14，@广发信用卡...",
+    "sourceUrl": "https://post.smzdm.com/p/arzrq4dq/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
-    "score": 79,
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 64.7,
     "scoreBreakdown": {
       "effectiveRate": 30,
-      "maxSavings": 10,
+      "maxSavings": 0.7,
       "audienceBreadth": 14,
-      "convenience": 10,
+      "convenience": 7,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -2
     }
   },
   {
-    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-联名卡停发潮里-建行悄悄返场了两次-想接住bnini这次上架-先算完这四笔账",
+    "id": "cn-银联-今天-10月16日-14-14-广发信用卡",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 联名卡停发潮里，建行悄悄返场了两次：想接住bnini这次上架，先算完这四笔账...",
-    "category": "dining",
+    "title": "今天（10月16日）14:14，@广发信用卡...",
+    "category": "mobile-payment",
     "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
-    "currency": "USD",
-    "minSpend": 6,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
+    "valueText": "现金回赠优惠，最高约 ¥3",
+    "estimatedValue": 10,
+    "currency": "CNY",
+    "minSpend": 3,
+    "maxDiscount": 10,
+    "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 联名卡停发潮里，建行悄悄返场了两次：想接住bnini这次上架，先算完这四笔账 AI权益卡爆了四个月：招行送Token、农行收880，哪笔账划得来 二十年前办信用卡送锅具，十年前送星巴克券，今年，银行开始送“算力”了。自从招行6月率先把Token塞进工程师信用卡的权益，四个多月下来：农行拉上Kimi发了联名卡，民生把积分变成了AI算力包，平安上了悦享白金AI生活版，中信的华为联名卡直接给小艺Claw返现。贵宾厅还是那个贵宾厅，但牌桌换了——银行现在抢的，是天天用AI干活的人的钱包。知乎小红书四个月过去，第一批“AI权益卡”是真福利还是噱头，已经露出底色了。招行工程师卡：开局最“人”的一张门槛够低：大专以上学历就能申，年费压力也小（用户反馈首年免年费、刷6次免次年）。新户完成指定首刷，三档AI权益方案就能任选其一。小红书小红书1个月MiniMax Token Plan...",
+    "originalText": "今天（10月16日）14:14，@广发信用卡...",
     "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
-    "score": 70.6,
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 64.7,
     "scoreBreakdown": {
       "effectiveRate": 30,
-      "maxSavings": 1.6,
+      "maxSavings": 0.7,
       "audienceBreadth": 14,
-      "convenience": 10,
+      "convenience": 7,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -2
     }
   },
   {
-    "id": "cn-银联-信用卡精选好文-更多好文-联名卡停发潮里-建行悄悄返场了两次-想接住bnini这次上架-先算完这四笔账",
+    "id": "cn-银联-当前位置-信用卡-信用卡精选好文-更多好文-农行3-只返到3号-中信刷3万返1美元-q4境外返现被这三道门吃掉",
     "region": "CN",
     "issuer": "银联",
     "cardNames": [
       "银联信用卡"
     ],
-    "title": "信用卡精选好文 更多好文 联名卡停发潮里，建行悄悄返场了两次：想接住bnini这次上架，先算完这四笔账...",
+    "title": "当前位置： 信用卡 信用卡精选好文 更多好文 农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉...",
     "category": "dining",
     "discountType": "cashback",
     "valueText": "迎新优惠，最高约 25,000 点",
-    "estimatedValue": 4,
+    "estimatedValue": 1,
     "currency": "USD",
-    "minSpend": 6,
-    "maxDiscount": 4,
-    "requiresRegistration": false,
+    "minSpend": 3,
+    "maxDiscount": 1,
+    "requiresRegistration": true,
     "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "信用卡精选好文 更多好文 联名卡停发潮里，建行悄悄返场了两次：想接住bnini这次上架，先算完这四笔账 AI权益卡爆了四个月：招行送Token、农行收880，哪笔账划得来 二十年前办信用卡送锅具，十年前送星巴克券，今年，银行开始送“算力”了。自从招行6月率先把Token塞进工程师信用卡的权益，四个多月下来：农行拉上Kimi发了联名卡，民生把积分变成了AI算力包，平安上了悦享白金AI生活版，中信的华为联名卡直接给小艺Claw返现。贵宾厅还是那个贵宾厅，但牌桌换了——银行现在抢的，是天天用AI干活的人的钱包。知乎小红书四个月过去，第一批“AI权益卡”是真福利还是噱头，已经露出底色了。招行工程师卡：开局最“人”的一张门槛够低：大专以上学历就能申，年费压力也小（用户反馈首年免年费、刷6次免次年）。新户完成指定首刷，三档AI权益方案就能任选其一。小红书小红书1个月MiniMax Token Plan...",
+    "originalText": "当前位置： 信用卡 信用卡精选好文 更多好文 农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉 广发\"留学缴费满3万返10%\"今天又推上首页：先算清到手的真实返现率，再和建行、招行、卓隽拼成一张表 今天（10月16日）14:14，@广发信用卡...",
+    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 64.4,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 0.4,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-信用卡精选好文-更多好文-农行3-只返到3号-中信刷3万返1美元-q4境外返现被这三道门吃掉",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "信用卡精选好文 更多好文 农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉...",
+    "category": "dining",
+    "discountType": "cashback",
+    "valueText": "迎新优惠，最高约 25,000 点",
+    "estimatedValue": 1,
+    "currency": "USD",
+    "minSpend": 3,
+    "maxDiscount": 1,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "信用卡精选好文 更多好文 农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉 广发\"留学缴费满3万返10%\"今天又推上首页：先算清到手的真实返现率，再和建行、招行、卓隽拼成一张表 今天（10月16日）14:14，@广发信用卡...",
     "sourceUrl": "https://post.smzdm.com/fenlei/xinyongka/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
-    "score": 70.6,
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 64.4,
     "scoreBreakdown": {
       "effectiveRate": 30,
-      "maxSavings": 1.6,
+      "maxSavings": 0.4,
       "audienceBreadth": 14,
-      "convenience": 10,
+      "convenience": 7,
       "urgency": 4,
       "certainty": 10,
       "sourceReliability": 1,
-      "riskPenalty": 0
+      "riskPenalty": -2
+    }
+  },
+  {
+    "id": "cn-银联-农行3-只返到3号-中信刷3万返1美元-q4境外返现被这三道门吃掉",
+    "region": "CN",
+    "issuer": "银联",
+    "cardNames": [
+      "银联信用卡"
+    ],
+    "title": "农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉...",
+    "category": "mobile-payment",
+    "discountType": "cashback",
+    "valueText": "现金回赠优惠，最高约 ¥3",
+    "estimatedValue": 1,
+    "currency": "USD",
+    "minSpend": 3,
+    "maxDiscount": 1,
+    "requiresRegistration": true,
+    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
+    "originalText": "农行3%只返到3号、中信刷3万返1美元：Q4境外返现被这三道门吃掉 广发\"留学缴费满3万返10%\"今天又推上首页：先算清到手的真实返现率，再和建行、招行、卓隽拼成一张表 今天（10月16日）14:14，@广发信用卡...",
+    "sourceUrl": "https://post.smzdm.com/p/a4qxpvkk/",
+    "sourceReliability": "community",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
+    "score": 64.4,
+    "scoreBreakdown": {
+      "effectiveRate": 30,
+      "maxSavings": 0.4,
+      "audienceBreadth": 14,
+      "convenience": 7,
+      "urgency": 4,
+      "certainty": 10,
+      "sourceReliability": 1,
+      "riskPenalty": -2
     }
   },
   {
@@ -414,7 +546,7 @@
     "originalText": "黑五海淘折扣有多大黑五海淘攻略黑五海淘在哪个app买东西(银联优购全球|返现力度|海淘活动)...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 45,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -444,7 +576,7 @@
     "originalText": "平安信用卡",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -474,7 +606,7 @@
     "originalText": "信用卡首页",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -504,7 +636,7 @@
     "originalText": "信用卡申请 卡种介绍 快捷申请 收费标准 信用卡章程 信用卡领用合约 信用卡年费查询 信用卡介绍",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -534,7 +666,7 @@
     "originalText": "信用卡申请",
     "sourceUrl": "http://cc.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -564,7 +696,7 @@
     "originalText": "信用卡章程",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20220126/h64455.html?ai_id=kuaizhan_h64455",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -594,7 +726,7 @@
     "originalText": "信用卡领用合约",
     "sourceUrl": "https://b.pingan.com.cn/kuaizhan/page/cclp/product/20210701/h51101.html?campaignid=202107021678&ai_id=kuaizhan_h51101",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -624,7 +756,7 @@
     "originalText": "信用卡年费查询",
     "sourceUrl": "https://creditcard.pingan.com/annual-fee.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -654,7 +786,7 @@
     "originalText": "信用卡介绍",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -684,7 +816,7 @@
     "originalText": "客户服务 最新公告 用卡小贴士 信用卡用卡安全 电话和短信营业厅 常见问题 其他 信用卡办理",
     "sourceUrl": "https://creditcard.pingan.com/kehufuwu.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -714,7 +846,7 @@
     "originalText": "信用卡用卡安全",
     "sourceUrl": "https://creditcard.pingan.com/gonglue/index.shtml",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -744,7 +876,7 @@
     "originalText": "信用卡办理",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -774,7 +906,7 @@
     "originalText": "信用卡激活",
     "sourceUrl": "https://creditcard.pingan.com/",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -804,7 +936,7 @@
     "originalText": "信用卡商城",
     "sourceUrl": "https://www.pingan.com/official/creditcard",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 43,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -836,7 +968,7 @@
     "originalText": "银联优购全球是什么仔细阅读了上面的活动说明，虽然复杂但是还是有看点的，为什么这么说？待我一一分析，首先这活动是一个支付活动，官方说明是：‘拿出一张银联62卡，点击链接（PC端/APP端）登记卡片，使用该卡进行海淘消费，就能享受返现现金奖励（返得就是实打实的现金，和返利网站是一样的，不懂的自行百度）‘本人分析：62银联卡+登记+消费，都比较容易理解，那怎么算海淘消费呢？这里有个坑，不是你以为的海淘消费就是海淘消费（网易考拉、天猫全球购这些都不算的），只有指定58家商城消费才会有奖励，这58家商城的名单在这里（PC端/APP端）。这个羊毛可以薅虽然限定了58商城，也没有我们熟悉的考拉和全球购，但是分析了一番还真的是有羊毛可以薅。本人仔细核算了一下活动页面上写得各种奖励比例，举例来说：我在ashford上买了一块2000多元的手表，如果按照活动的要求1、绑定了62开头银联卡并用这张卡完成了支付，那么就可以得到2000*（1%基础奖励+3%阶梯奖励+8%黑五加码+3%叠加奖励）=2000*15%=300元的返现金，换句话说我买这块表又额外打了一个85折扣优惠啊！这块表我是1700元买的，...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/av63keg/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 41,
     "scoreBreakdown": {
       "effectiveRate": 0,
@@ -847,37 +979,6 @@
       "certainty": 10,
       "sourceReliability": 1,
       "riskPenalty": -4
-    }
-  },
-  {
-    "id": "cn-招商银行-二十年前办信用卡送锅具-十年前送星巴克券-今年-银行开始送-算力-了-自从招行6月率先把token塞进工程师信用卡的权益-四个多月下来-农行拉上kimi发",
-    "region": "CN",
-    "issuer": "招商银行",
-    "cardNames": [
-      "招商银行信用卡"
-    ],
-    "title": "二十年前办信用卡送锅具，十年前送星巴克券，今年，银行开始送“算力”了。自从招行6月率先把Token塞进工程师信用卡的权益，四个多月下来：农行拉上Kimi发...",
-    "category": "dining",
-    "discountType": "cashback",
-    "valueText": "迎新优惠，最高约 ¥6",
-    "currency": "CNY",
-    "minSpend": 6,
-    "requiresRegistration": false,
-    "termsSummary": "什么值得买内容属于社区或编辑线索，优惠资格、名额和条款必须以官方银行或商户规则确认为准。",
-    "originalText": "二十年前办信用卡送锅具，十年前送星巴克券，今年，银行开始送“算力”了。自从招行6月率先把Token塞进工程师信用卡的权益，四个多月下来：农行拉上Kimi发了联名卡，民生把积分变成了AI算力包，平安上了悦享白金AI生活版，中信的华为联名卡直接给小艺Claw返现。贵宾厅还是那个贵宾厅，但牌桌换了——银行现在抢的，是天天用AI干活的人的钱包。知乎小红书四个月过去，第一批“AI权益卡”是真福利还是噱头，已经露出底色了。招行工程师卡：开局最“人”的一张门槛够低：大专以上学历就能申，年费压力也小（用户反馈首年免年费、刷6次免次年）。新户完成指定首刷，三档AI权益方案就能任选其一。小红书小红书1个月MiniMax Token Plan...",
-    "sourceUrl": "https://www.smzdm.com/zy/category/av6ko9y/",
-    "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
-    "score": 39,
-    "scoreBreakdown": {
-      "effectiveRate": 0,
-      "maxSavings": 0,
-      "audienceBreadth": 14,
-      "convenience": 10,
-      "urgency": 4,
-      "certainty": 10,
-      "sourceReliability": 1,
-      "riskPenalty": 0
     }
   },
   {
@@ -900,7 +1001,7 @@
     "originalText": "信用卡最新摘要 京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 37.6,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -933,7 +1034,7 @@
     "originalText": "京东支付优惠攻略(E卡支付) 先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -966,7 +1067,7 @@
     "originalText": "先来说说京东到底有哪些支付方式吧~京东的支付方式1、打白条京东白条是2014年2月时京东推出的一种支付方式，跟支付宝的花呗基本上是大同小异的，不过个人觉得京东白条更好用。白条支付的理念就是“先消费，后付款”，说白了就是借鉴了信用卡的模式，还款也跟信用卡差不多，京东白条是消费后30天还款，还可以申请最长36月的分期还款。京东白条支付后30天还款，最重要的来了，这还款还能用信用卡来还，以前是所有信用卡都能还白条的，去年起有所变动，只有京东白条的联名卡（包括联名卡所属银行的其他信用卡）能还白条欠款，那也不差了，按信用卡最长还款期56天来算，在京东消费打白条后，最长可以30+56天后才需要付款，算算这86天的时间价值吧，不得了啊~另外京东白条支付也有很多优惠券可领，不过现在也比前两年少多了，但还是有羊毛可薅，尤其是在618、双11、双12、年货节等购物狂欢上，各种满减券、免息券、现金券还是挺多的。话说前年年底在京东买的方太油烟机，打白条用了24期的免息券，商品都用旧了，钱还没付清...",
     "sourceUrl": "https://www.smzdm.com/zy/detail/avk0gm7/",
     "sourceReliability": "community",
-    "lastCheckedAt": "2026-10-16T05:15:56.350Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.367Z",
     "score": 36.3,
     "scoreBreakdown": {
       "effectiveRate": 4,
@@ -996,7 +1097,7 @@
     "originalText": "信用卡网银登录",
     "sourceUrl": "https://ebank.pingan.com.cn/creditcard/static/pc-ebank/index.html#/login",
     "sourceReliability": "official",
-    "lastCheckedAt": "2026-10-16T05:15:56.348Z",
+    "lastCheckedAt": "2026-10-16T11:59:55.365Z",
     "score": 34,
     "scoreBreakdown": {
       "effectiveRate": 0,
